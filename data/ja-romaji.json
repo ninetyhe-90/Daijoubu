@@ -1,0 +1,614 @@
+{
+  "gakkou": [
+    "maiasa shichiji ni gakkou he iki masu",
+    "chiiki no gakkou toshokan wo juumin ni kaihou suru torikumi ga susun deiru"
+  ],
+  "sensei": [
+    "sensei ni kanji no yomikata wo oshie temoratta",
+    "tannin no sensei ha shinro nitsuite teinei ni jogen shitekudasatta"
+  ],
+  "benkyou": [
+    "yoru ha ichijikan dake benkyou shimasu",
+    "ryuugaku mae ni nihongo wo shuuchuuteki ni benkyou suru hitsuyou gaaru"
+  ],
+  "shukudai": [
+    "shukudai wo owa rasetekara asobi ni iku",
+    "teishutsukigen wo sugi ta shukudai ha hyouka no taishougai tonaru"
+  ],
+  "shiken": [
+    "ashita no shiken notameni tango wo oboe ru",
+    "shiken no kekka ha gouhi dakedenaku gakushuu no shishin nimonaru"
+  ],
+  "jugyou": [
+    "san genme no jugyou ha kyoushitsu ga henkou ninatta",
+    "taimen jugyou to enkaku jugyou wo kumiawase ta sekkei ga kentousa reteiru"
+  ],
+  "sotsugyou": [
+    "rainen sangatsu ni daigaku wo sotsugyou shimasu",
+    "sotsugyougo mo bokou tono nettowaaku wo ika su nin ga ooi"
+  ],
+  "shougakukin": [
+    "shougakukin nookagede shingaku wo akirame zuni sun da",
+    "shougakukin niha henkan gimu noarumonoto kyuufu kata gaaru"
+  ],
+  "shigoto": [
+    "konnichiha shigoto ga hayaku owari souda",
+    "shigoto no susumekata wo minaoshi te zangyou wo hera shita"
+  ],
+  "kaisha": [
+    "chichi ha chiisa na kaisha de hatarai teiru",
+    "kaisha no gyouseki ha kawase no doukou ni sayuu sareyasui"
+  ],
+  "kaigi": [
+    "totoki kara kaigi gaarunode shiryou wo insatsu suru",
+    "kaigi no gijiroku ha toujitsuchuu ni zen in he kyouyuu sareta"
+  ],
+  "kyuuryou": [
+    "kyuuryou no ichibu wo maitsuki chokin shiteiru",
+    "kyuuryou no suijun ha bukka no joushou ni oi tsuiteinai"
+  ],
+  "joushi": [
+    "joushi ni soudan shitekara henji wo dashi masu",
+    "joushi no shounin wo ezu ni keiyaku wo susume rukotohadekinai"
+  ],
+  "shimekiri": [
+    "repooto no shimekiri ha konshuu no kinyoubi desu",
+    "shimekiri wo sugi ta shinsei ha gensoku toshite juri sarenai"
+  ],
+  "shuushoku": [
+    "sotsugyougo ha jimoto de shuushoku shitai",
+    "shinsotsu no shuushokukatsudou ha zaigakuchuu ni choukika suru keikou gaaru"
+  ],
+  "zangyou": [
+    "konnichiha zangyou sezunimassugu kaeru",
+    "zangyoujikan no jougen wo koe ta baai ha zesei ga motome rareru"
+  ],
+  "denwa": [
+    "haha kara denwa gakakattekita",
+    "denwa niyoru honnin kakunin dakedeha fujuubun tosareru"
+  ],
+  "kikai": [
+    "kono kikai ha botan hitotsu de ugoku",
+    "kikai no teikitenken wo okotaru to koshou no gen in ninaru"
+  ],
+  "denchi": [
+    "tokei no denchi ga kire teshimatta",
+    "shiyouzumi no denchi ha funbetsu shite kaishuu suru hitsuyou gaaru"
+  ],
+  "gamen": [
+    "gamen ga kuraku te moji ga yome nai",
+    "gamen no sekkei ha riyousha no shisen no ugoki wo kouryoshi teiru"
+  ],
+  "setsuzoku": [
+    "musen no setsuzoku ga tokidoki kire ru",
+    "setsuzoku ga fuantei na kankyou deha tsuushin hinshitsu ga teika suru"
+  ],
+  "jouhou": [
+    "saishin no jouhou wo intaanetto de shirabe ru",
+    "kojinjouhou no toriatsukai niha genkaku na kanri ga motome rareru"
+  ],
+  "koushin": [
+    "apuri wo saishinban ni koushin shita",
+    "koushin no tekiyou mae ni kanarazu shiryou no hikae wo hozon shitekudasai"
+  ],
+  "jinkouchinou": [
+    "jinkouchinou de honyaku no shitagaki wo tsukuru",
+    "jinkouchinou no handan katei niha setsumeikanou sei ga motome rareru"
+  ],
+  "jikken": [
+    "rika no jikan ni kantan na jikken woshita",
+    "douitsujouken de jikken wo kurikaeshi saigensei wo kakuninshi ta"
+  ],
+  "kansatsu": [
+    "mushi no ugoki wo juppunkan kansatsu shita",
+    "chouki no kansatsu deeta kara kisetsuteki na henka ga yomitore ru"
+  ],
+  "kekka": [
+    "kekka ha ashita no asa ni waka ru",
+    "kekka no kaishaku niha sokutei gosa wo kouryosu ru hitsuyou gaaru"
+  ],
+  "kasetsu": [
+    "sono kasetsu nara setsumei gatsukisouda",
+    "kasetsu wo tate tauede hanshou kanousei wo kentousu bekida"
+  ],
+  "housoku": [
+    "kono housoku ha chuugakkou de naratsu ta",
+    "butsuri no housoku ha ittei no joukenka denomi seiritsu suru"
+  ],
+  "sokutei": [
+    "ondo wo ichibu gotoni sokutei suru",
+    "sokuteichi nobaratsukiha kiki no seido ni izon suru"
+  ],
+  "bunshi": [
+    "mizu no bunshi ha futatsu no suiso kara naru",
+    "bunshi no kouzou wo kaiseki sureba seishitsu no yosoku ga kanouni naru"
+  ],
+  "shoumei": [
+    "teiri wo nooto ni shoumeishi temita",
+    "hanrei wo shimese basono shuchou ga ayamari dato shoumei dekiru"
+  ],
+  "shizen": [
+    "shuumatsu ha shizen no naka wo aruki tai",
+    "shizenkankyou no hozen to kaihatsu no ryouritsu ga kadai tonatteiru"
+  ],
+  "kuuki": [
+    "asa no kuuki ha tsumetaku te kimochii i",
+    "shitsunai no kuuki wo irekae te kanki wo tettei shita"
+  ],
+  "osen": [
+    "koujou no haisui de kawa ga osen sareta",
+    "taikiosen no noudo kijun ha nennen ikameshiku kaitei sareru"
+  ],
+  "shigen": [
+    "shigen wo taisetsu ni tsukai mashou",
+    "kagiri aru shigen no junkan riyou ga sangyou seisaku no hashira ninatta"
+  ],
+  "kikou": [
+    "kono chiiki ha kikou ga odaya kada",
+    "kikou hendou heno tekiou saku ha jichitai gotoni kotonaru"
+  ],
+  "haikibutsu": [
+    "haikibutsu ha funbetsu shite dashi tekudasai",
+    "sangyouhaikibutsu no shori niha ikameshii kiroku hokan ga gimu zukerareru"
+  ],
+  "saisei": [
+    "furui kami wo saisei shite nooto nishita",
+    "saiseikanou enerugii no dounyuu hiritsu ga nennen takama tteiru"
+  ],
+  "seitaikei": [
+    "ike niha chiisa na seitaikei gaaru",
+    "gairaishu no shinnyuu ha seitaikei no kinkou wo kuzusu osore gaaru"
+  ],
+  "kenkou": [
+    "kenkou notameni maiasa arui teiru",
+    "kenkou jumyou wo noba su torikumi ga jichitai de hajima tta"
+  ],
+  "byouin": [
+    "netsu gaarunode byouin he itta",
+    "byouin no machijikan wo tanshuku suru yoyakusei do ga dounyuu sareta"
+  ],
+  "kusuri": [
+    "shokuji no nochini kusuri wo nomi masu",
+    "kusuri no fukusayou nitsuiteha tenpu bunsho ni kisaisa reteiru"
+  ],
+  "netsu": [
+    "sakuya kara netsu ga saga ranai",
+    "netsu ga mikka ijou tsuzuku baai ha saijushin ga susume rareru"
+  ],
+  "yobou": [
+    "tearai de kaze wo yobou suru",
+    "wakuchin sesshu ha kansen kakudai no yobou ni kiyo suru"
+  ],
+  "suimin": [
+    "suimin woshikkari toru to atama gasukkirisuru",
+    "suimin no shitsu ha nitchuu no sagyoukouritsu to missetsu ni kankei suru"
+  ],
+  "shinsatsu": [
+    "gozenchuu ni shinsatsu wo uke ta",
+    "shinsatsu no naiyou ha shinryou roku ni seikaku ni kisaisa reru"
+  ],
+  "shoujou": [
+    "seki igai no shoujou ha dete inai",
+    "shoujou ga keikai shita nochi mo fukuyaku wo tsuzuke ru hitsuyou gaaru"
+  ],
+  "shakai": [
+    "shakai no shikumi wo gakkou de narau",
+    "koureika ni tomonai shakai no sasae teno kakuho ga kadai da"
+  ],
+  "kazoku": [
+    "nichiyoubi ha kazoku to shokuji wosuru",
+    "kazoku no keitai ga tayouka shi seido no minaoshi ga susumu"
+  ],
+  "kinjo": [
+    "kinjo ni atarashii pan ya gadekita",
+    "kinjo no juumin ga kyouryoku shite kouen no seisou wo tsuzuke teiru"
+  ],
+  "kisoku": [
+    "toshokan no kisoku wo mamotsu tekudasai",
+    "kisoku no unyou ha jirei ni ouji te juunanni handan sareru"
+  ],
+  "seron": [
+    "yoron ga sansei ni katamuki tsutsuaru",
+    "yoronchousa no kekka ha setsumon no mongon ni sayuu sareuru"
+  ],
+  "kakusa": [
+    "chiiki niyotte iryou no kakusa gaaru",
+    "shotoku kakusa no kakudai ha kyouiku kikai nimo hakyuu suru"
+  ],
+  "kyousei": [
+    "nin to shizen ga kyousei suru machi wo mezasu",
+    "tayou na haikei wo motsu hitobito no kyousei ga seisaku no hashira ni sue rareta"
+  ],
+  "fukushi": [
+    "fukushi no shigoto ni kyoumi gaaru",
+    "fukushi yosan no haibun ha koureika hikiwo han ei shite minaosa reta"
+  ],
+  "houritsu": [
+    "atarashii houritsu ga shigatsu kara shikou sareru",
+    "houritsu no kaisei niha kokkai deno shingi ga hitsuyou tonaru"
+  ],
+  "senkyo": [
+    "hajimete senkyo de touhyou shita",
+    "senkyo no kekka ha yokujitsu no kaihyou de kakuteishi ta"
+  ],
+  "zeikin": [
+    "kaimono nimo zeikin gakakaru",
+    "zeikin no shito ha yosan kaki de koukai sareteiru"
+  ],
+  "seisaku": [
+    "kosodate shien no seisaku ga happyou sareta",
+    "seisaku no kouka ha shihyou wo oi te kenshou sarerubekida"
+  ],
+  "kokkai": [
+    "kokkai de yosan an ga shingi sareteiru",
+    "kokkai no giji ha gensoku toshite koukai sareteiru"
+  ],
+  "jichitai": [
+    "jichitai ga hinanjo wo kaisetsushi ta",
+    "jichitai gotoni shien seido no taishou han i ga kotonaru"
+  ],
+  "shinsei": [
+    "shougakukin no shinsei wo onrain de dashi ta",
+    "shinseishorui ni fubi gaaruto shinsa ga horyuu ninaru"
+  ],
+  "kenpou": [
+    "kenpou nitsuite jugyou de manan da",
+    "kenpou no kaishaku womegutte gakujutsuteki na giron ga tsuzui teiru"
+  ],
+  "nedan": [
+    "kono kutsu ha nedan ga sukoshi takai",
+    "nedan no keisei niha jukyuu to kyousou kankyou ga eikyou suru"
+  ],
+  "shouhisha": [
+    "shouhisha ha hyouji woyoku kakuninsu bekida",
+    "shouhisha no shinrai wo kaifuku suruniha jouhou kaiji ga kaka senai"
+  ],
+  "chokin": [
+    "ryokou notameni chokin shiteiru",
+    "teikinri shita deha chokin no jisshitsuteki na kachi ga meberi suru"
+  ],
+  "shijou": [
+    "asa no shijou de sakana wo katsu ta",
+    "shijou no sannyuu kisei ga kyousou no doai wo sayuu suru"
+  ],
+  "keiki": [
+    "saikin ha keiki ga sukoshi yoku natta",
+    "keiki no doukou ha koyou to setsubitoushi ni han ei sareru"
+  ],
+  "kawase": [
+    "kawase no ugoki wo maiasa chekku suru",
+    "kawase souba no hendou ha yushutsu kigyou no shuueki wo chokugeki suru"
+  ],
+  "toushi": [
+    "kyouiku heno toushi ha nagaku kiku",
+    "toushi no handan niha risuku to kitai shuueki no hikaku ga iru"
+  ],
+  "bukka": [
+    "bukka ga aga tte kakei ga kurushii",
+    "bukka shisuu ha kakei no jisshitsu koubairyoku wo hakaru shihyou tonaru"
+  ],
+  "shinbun": [
+    "asa go meshi wo tabe nagara shinbun wo yomu",
+    "shinbun no koudokusha kazu hakoko juunen de genshou shiteiru"
+  ],
+  "housou": [
+    "yoru hachi toki kara bangumi ga housou sareru",
+    "housou no naiyou ha hourei ni motozu ite kiroku ga hozon sareru"
+  ],
+  "kiji": [
+    "kono kiji ha shashin gatotemokireida",
+    "kiji no midashi ha honbun no naiyou wo seikaku ni han ei subekida"
+  ],
+  "koukoku": [
+    "eki ni ooki na koukoku ga hatsu tearu",
+    "koukoku no hyouji ha gonin wo maneka naiyou kisei sareteiru"
+  ],
+  "shuzai": [
+    "kisha ga machi he shuzai ni kita",
+    "shuzai no moushikomi ha kouhoubu mon wo tsuuji te okonawa reru"
+  ],
+  "houdou": [
+    "jiko no houdou ga yuugata ni nagare ta",
+    "houdou no jiyuudo ha shihyou niyotte kokusaihikaku sareru"
+  ],
+  "henshuu": [
+    "douga wo henshuu shite ichibu nimatometa",
+    "henshuu no katei de jijitsukankei no kakunin ga aratame te okonawa reru"
+  ],
+  "shichousha": [
+    "bangumi ni shichousha karano tegami ga todoi ta",
+    "shichousha no hannou ha jikai no kousei ni han ei sareru"
+  ],
+  "bangumi": [
+    "suki na bangumi wo maishuu mite iru",
+    "bangumi no kaihenki niha shinsaku ga issei ni hajima ru"
+  ],
+  "ongaku": [
+    "benkyou shinagara ongaku wo kiku",
+    "ongaku no chosakuken ha ensou no keitai niyotte atsukai ga kotonaru"
+  ],
+  "e": [
+    "kodomo ga inu no e wo egai ta",
+    "kono e no kouzu ha enkinhou no eikyou ga shiteki sareteiru"
+  ],
+  "shousetsu": [
+    "neru mae ni shousetsu wo sukoshi yomu",
+    "kono shousetsu ha jidai no kuuki wo komakaku byousha shiteiru"
+  ],
+  "eiga": [
+    "shuumatsu ni kazoku to eiga wo mita",
+    "eiga no kougyou shuunyuu ha koukai hatsu shuu de taihan ga kima ru"
+  ],
+  "tenrankai": [
+    "bijutsukan de tenrankai wo hirai teiru",
+    "tenrankai no raijousha kazu ha sakuhin no taishutsu jouken ni sayuu sareru"
+  ],
+  "engeki": [
+    "gakkou no matsuri de engeki woshita",
+    "engeki no jouen niha daihon no kenri shori ga hitsuyou ninaru"
+  ],
+  "choukoku": [
+    "kouen ni atarashii choukoku ga oka reta",
+    "mokuzou no choukoku ha shitsudo no henka de sori ga shouji yasui"
+  ],
+  "hyougen": [
+    "kimochi wo kotoba de hyougen suru",
+    "hiyuteki na hyougen ha bunmyaku niyotte kaishaku ga kawa ru"
+  ],
+  "ryokou": [
+    "natsuyasumi ni hokkaidou he ryokou suru",
+    "ryokou no juyou ha renkyuu no torikata ni ookiku sayuu sareru"
+  ],
+  "eki": [
+    "eki de tomodachi wo matsu teiru",
+    "eki no bariafurii seibi ga dankaiteki ni susume rareteiru"
+  ],
+  "kippu": [
+    "madoguchi de kippu wo nimai katsu ta",
+    "kippu no haraimodoshi niha shotei no tesuuryou gakakaru"
+  ],
+  "shukuhaku": [
+    "ryokan ni ippaku shukuhaku shita",
+    "shukuhakushisetsu no kadouritsu ha kisetsu niyotte ookiku hendou suru"
+  ],
+  "nimotsu": [
+    "nimotsu ga omoku te kaidan gatsurai",
+    "nimotsu no tsuiseki bangou de haisou joukyou wo kakunin dekiru"
+  ],
+  "kankou": [
+    "kyouto de kankou wo tanoshi nda",
+    "kankoukyaku no zouka ha chiiki keizai to konzatsu no ryouhou womotarasu"
+  ],
+  "yoyaku": [
+    "hoteru wo ikkagetsu mae ni yoyaku shita",
+    "yoyaku no torikeshi niha kitei no kigen ga mouke rareteiru"
+  ],
+  "annai": [
+    "ekiin ga michi wo annai shitekureta",
+    "annaihyouji no tagengo ka ga hounichi kyaku heno taiou toshite susumu"
+  ],
+  "machi": [
+    "shizuka na machi ni hikkoshi ta",
+    "machi no saisei bi deha juumin no iken choushu ga gimu zukerareru"
+  ],
+  "douro": [
+    "douro ga kouji de juutai shiteiru",
+    "douro no hosou ha taikyuu nensuu wo kouryoshi te keikaku sareru"
+  ],
+  "tatemono": [
+    "ano tatemono ha toshokan desu",
+    "tatemono no taishin kijun ha kaitei notabini kyouka saretekita"
+  ],
+  "koutsuu": [
+    "kono jikan ha koutsuu ga komi au",
+    "koutsuumou no seibi ha chiikikan no kakusa zesei nitsunagaru"
+  ],
+  "kouen": [
+    "kouen de kodomo ga asonde iru",
+    "kouen no ijikanri ni chiiki dantai ga sanka shiteiru"
+  ],
+  "jinkou": [
+    "kono machi no jinkou ha heri tsuzuke teiru",
+    "jinkou no suikei ha shourai no koukyoutoushi no moto ryou tonaru"
+  ],
+  "toshi": [
+    "daitoshi deha yachin ga takai",
+    "toshi no hiitoairando taisaku ga zenkoku de kentousa reteiru"
+  ],
+  "juutai": [
+    "ame no nichi ha juutai ga nagabiku",
+    "juutai no kanwa niha shingou no saitekika ga kouka wo shimesu"
+  ],
+  "yama": [
+    "shuumatsu ni yama he noboru yotei da",
+    "yama no shokusei ha hyoukou niyotte meikaku ni henkasu ru"
+  ],
+  "kawa": [
+    "kawa nosobade shashin wo totsu ta",
+    "kawa no suii ha jouryuu no kouuryou ni suujikan okure te hannou suru"
+  ],
+  "umi": [
+    "natsu ninaruto umi ni iki takunaru",
+    "umi no sansei ka ha seitaikei heno eikyou ga kenen sareteiru"
+  ],
+  "sora": [
+    "yuugata no sora ga akaku natta",
+    "sora no akarusa ha taikichuu no ryuushi no ryou de kawa ru"
+  ],
+  "hana": [
+    "niwa ni chiisa na hana ga sai ta",
+    "hana no kaika jiki ha kion no sekisan atai de yosoku sareru"
+  ],
+  "tenki": [
+    "ashita no tenki wo shirabe teoku",
+    "tenki no yohou seido ha kansokuten no mitsudo ni izon suru"
+  ],
+  "kisetsu": [
+    "suki na kisetsu ha aki desu",
+    "kisetsu gotono juyou hendou wo mikon de zaiko wo chousei suru"
+  ],
+  "mori": [
+    "mori no naka ha suzushika tta",
+    "mori no hozen niha kanbatsu to shokurin no ryouhou ga hitsuyou da"
+  ],
+  "asa": [
+    "asa ha roku tokini oki ru",
+    "asa no tsuukinjikantai ni awa sete unkou honsuu ga fue ru"
+  ],
+  "shokuji": [
+    "kazoku toyukkuri shokuji wosuru",
+    "shokuji no eiyou baransu ha kenkoujoutai ni chokketsu suru"
+  ],
+  "kaimono": [
+    "yuugata ni suupaa he kaimono ni iku",
+    "kaimono no rireki kara shouhi keikou wo bunseki suru shuhou gaaru"
+  ],
+  "souji": [
+    "heya wo souji shite mado wo hirake ta",
+    "souji no tejun wo hyoujunka suruto sagyoujikan ga antei suru"
+  ],
+  "sentaku": [
+    "hare tanode sentaku wo hoshi ta",
+    "sentaku hyouji ha sozai gotono toriatsukai wo shimeshi teiru"
+  ],
+  "ryouri": [
+    "konya ha haha no ryouri ga tanoshimi da",
+    "ryouri no mori tsuke ha aji no inshou nimo eikyou suru"
+  ],
+  "yasumi": [
+    "ashita ha yasumi nanodeyukkuri neru",
+    "yasumi no shutoku joukyou ha shokuba no kankyou shihyou ninaru"
+  ],
+  "jikan": [
+    "jikan ganainode isogo u",
+    "jikan no haibun wo minaosu to sagyou no chien ga heru"
+  ],
+  "ureshii": [
+    "goukaku no shirase wo kii te ureshika tta",
+    "kitaishi teinakatta shien ni ureshii odoroki wo oboe ta"
+  ],
+  "kanashii": [
+    "wakare no bamen ha sukoshi kanashii",
+    "kanashii shirase ha tsutae ru kotoba wo erabu hitsuyou gaaru"
+  ],
+  "fuan": [
+    "shiken no mae ha sukoshi fuan ninaru",
+    "fukakujitsu na jouhou ga fuan wo zoufuku saserukotogaaru"
+  ],
+  "ikari": [
+    "ikari wo kotoba nishinaide ichido shinkokyuu shita",
+    "ikari no kanjou wo hitei sezu uke yameru kotoga tasuke ninaru"
+  ],
+  "anshin": [
+    "renraku ga kite anshinshi ta",
+    "anshinshi te riyou dekiru seido sekkei ga motome rareru"
+  ],
+  "odoroki": [
+    "totsuzen no ame ni odoroki no koe ga aga tta",
+    "chousakekka niha senmonka mo odoroki wo kakuse nakatta"
+  ],
+  "natsukashii": [
+    "furui shashin wo mita ra natsukashiku natta",
+    "kokyou no nioi ni natsukashisa wo oboe ru nin ga ooi"
+  ],
+  "kansha": [
+    "tetsudatsu tekureta nin ni kansha wo tsutae ta",
+    "kansha no kimochi ha kotoba nishite hajimete aite ni todoku"
+  ],
+  "kangaeru": [
+    "shinro nitsuiteyukkuri kangae ru",
+    "fukusuu no sentakushi wo hikaku shitekara kangae rubekida"
+  ],
+  "riyuu": [
+    "okure ta riyuu wo setsumeishi tekudasai",
+    "handan no riyuu wo meiji suruto setsumei sekinin wo hata seru"
+  ],
+  "handan": [
+    "tenki wo mite shuppatsu wo handan suru",
+    "handan no kijun ga aimai dato kekka nibaratsukiga deru"
+  ],
+  "kioku": [
+    "kodomo no gorono kioku ga nokotsu teiru",
+    "kioku no teichaku niha suimin to hanpuku ga kanyo suru"
+  ],
+  "souzou": [
+    "sun demitai ie wo souzou suru",
+    "souzouryoku ha shiryou dakedeha ho enai bubun wo ume ru"
+  ],
+  "ketsuron": [
+    "hanashiai no ketsuron womatometa",
+    "ketsuron wo isogu to juuyouna hanrei wo mioto su"
+  ],
+  "hikaku": [
+    "futatsu no an wo hikaku shite erabu",
+    "hikaku no taishou wo soroe nakereba suuchi ni imi ganai"
+  ],
+  "utagau": [
+    "suuji ga tadashii ka utagatsu te tashika meta",
+    "shussho no meikaku denai jouhou wo utagau shisei ga taisetsu da"
+  ],
+  "undou": [
+    "mainichi sukoshi undou suruyounishiteiru",
+    "tekido na undou ha seikatsushuukan yano yobou ni kiyo suru"
+  ],
+  "shiai": [
+    "ashita no shiai ni muke te renshuu shita",
+    "shiai no nittei ha tenkou furyou de jun en tonatta"
+  ],
+  "senshu": [
+    "ano senshu ha hashiru noga hayai",
+    "senshu no ikusei niha choukiteki na shidou keikaku ga kaka senai"
+  ],
+  "renshuu": [
+    "houkago ni ichijikan renshuu suru",
+    "renshuu no shitsu ha hanpuku kaisuu yorimo ishiki no muke hou de kawa ru"
+  ],
+  "katsu": [
+    "tsugino shiai de kachi tai",
+    "katsu tameniha hibi no kiroku no chikuseki gamonowo iu"
+  ],
+  "hashiru": [
+    "kouen wo maiasa hashitsu teiru",
+    "hashiru foomu wo satsuei shite shisei wo bunseki shita"
+  ],
+  "chiimu": [
+    "chiimu zen in de sakusen wo hanashiatsu ta",
+    "chiimu no seika ha kojin no nouryoku yori renkei ni sayuu sareru"
+  ],
+  "kiroku": [
+    "jikokiroku wo koushin dekita",
+    "kiroku no sokutei niha kounin no kiki to tachiai iga hitsuyou da"
+  ],
+  "rekishi": [
+    "kono machi no rekishi wo shirabe teiru",
+    "rekishi no kijutsu ha shiryou no sentaku niyotte kawari uru"
+  ],
+  "jidai": [
+    "sofu hasono jidai no hanashi woyokusuru",
+    "jidai no kubun ha kenkyuusha niyotte kyoukai ga kotonaru"
+  ],
+  "kodai": [
+    "kodai no dougu ga hakubutsukan niaru",
+    "kodai no koueki michi ha shutsudohin kara fukugen sareteiru"
+  ],
+  "sensou": [
+    "sensou no kiroku wo shiryoukan de yonda",
+    "sensou no kioku wodou keishou surukaga giron sareteiru"
+  ],
+  "iseki": [
+    "iseki no kengaku ni deka keta",
+    "iseki no hakkutsu chousa ha kiroku no hozon ga saiyuusen sareru"
+  ],
+  "dentou": [
+    "kono matsuri ha nagai dentou gaaru",
+    "dentou no keishou niha ninaite no ikusei ga fukaketsu da"
+  ],
+  "bunken": [
+    "furui bunken wo toshokan de sagasu",
+    "bunken no hikaku kara kijutsu no hensen ga akiraka ninatta"
+  ],
+  "heiwa": [
+    "heiwa na hibi ga tsuzui tehoshii",
+    "heiwa no iji niha taiwa no shikumi ga kaka senai"
+  ]
+}

@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="theme-color" content="#0D1120" />
+    <meta name="twitter:title" content="大米要扛几楼 日本語版 · 一词一画，点亮日语" />
+    <meta name="twitter:image" content="%BASE_URL%brand/og-card.jpg" />
+    <title>大米要扛几楼 日本語版 Daijoubu · 一词一画，点亮日语</title>
+    <meta name="description" content="153 个日语词条，每个词一幅原创插画、两句日中对照例句、假名与罗马字读音、日语朗读。FSRS 间隔复习，学会一个就点亮一颗星。免费、开源、无需注册。" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="大米要扛几楼 日本語版 · 一词一画，点亮日语" />
+    <meta property="og:description" content="153 个日语词，每个都有一幅画。假名、罗马字、日语发音与 FSRS 复习。免费、开源、无需注册。" />
+    <meta property="og:image" content="%BASE_URL%brand/og-card.jpg" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <link rel="icon" type="image/svg+xml" href="%BASE_URL%favicon.svg" />
+    <link rel="apple-touch-icon" href="%BASE_URL%icon-512.png" />
+    <link rel="manifest" href="%BASE_URL%manifest.webmanifest" />
+    <link rel="preload" href="%BASE_URL%atlas/index.json" as="fetch" crossorigin="anonymous" />
+    <script>
+      // Migrate progress written under the previous module prefix.
+      (function () {
+        try {
+          var pending = [];
+          for (var i = 0; i < localStorage.length; i++) {
+            var k = localStorage.key(i);
+            if (!k || k.indexOf("word-atlas:") !== 0) continue;
+            var v = localStorage.getItem(k);
+            var n = "daijoubu:" + k.slice("word-atlas:".length);
+            if (v !== null && localStorage.getItem(n) === null) pending.push([n, v]);
+          }
+          for (var j = 0; j < pending.length; j++) localStorage.setItem(pending[j][0], pending[j][1]);
+        } catch (e) {}
+      })();
+      // Apply the saved theme (dark by default) before first paint.
+      (function () {
+        var t = "dark";
+        try {
+          var s = JSON.parse(localStorage.getItem("daijoubu:settings") || "{}");
+          if (s.theme) t = s.theme;
+        } catch (e) {}
+        if (t !== "system") document.documentElement.setAttribute("data-theme", t);
+      })();
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

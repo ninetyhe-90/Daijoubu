@@ -1,0 +1,6781 @@
+[
+  {
+    "id": "gakkou",
+    "w": "学校",
+    "kana": "がっこう",
+    "romaji": "gakkou",
+    "uk": "がっこう",
+    "us": "gakkou",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "学校",
+        "en": "学ぶための場所"
+      }
+    ],
+    "ex": [
+      {
+        "en": "毎朝七時に学校へ行きます。",
+        "zh": "每天早上七点去学校。",
+        "romaji": "maiasa shichiji ni gakkou he iki masu"
+      },
+      {
+        "en": "地域の学校図書館を住民に開放する取り組みが進んでいる。",
+        "zh": "把地区学校图书馆向居民开放的举措正在推进。",
+        "romaji": "chiiki no gakkou toshokan wo juumin ni kaihou suru torikumi ga susun deiru"
+      }
+    ],
+    "col": [
+      "学校に行く｜去学校",
+      "学校を卒業する｜从学校毕业"
+    ],
+    "fam": [
+      "通学"
+    ],
+    "syn": [
+      "塾"
+    ],
+    "ant": [],
+    "tip": "「学校」多指中小学，大学一般说「大学」。",
+    "cefr": "N5",
+    "topic": "education",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "sensei",
+    "w": "先生",
+    "kana": "せんせい",
+    "romaji": "sensei",
+    "uk": "せんせい",
+    "us": "sensei",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "老师",
+        "en": "教える人"
+      }
+    ],
+    "ex": [
+      {
+        "en": "先生に漢字の読み方を教えてもらった。",
+        "zh": "请老师教了我汉字的读法。",
+        "romaji": "sensei ni kanji no yomikata wo oshie temoratta"
+      },
+      {
+        "en": "担任の先生は進路について丁寧に助言してくださった。",
+        "zh": "班主任就升学方向给了细致的建议。",
+        "romaji": "tannin no sensei ha shinro nitsuite teinei ni jogen shitekudasatta"
+      }
+    ],
+    "col": [
+      "先生に聞く｜问老师",
+      "先生になる｜当老师"
+    ],
+    "fam": [
+      "教員"
+    ],
+    "syn": [
+      "講師"
+    ],
+    "ant": [
+      "生徒"
+    ],
+    "tip": "「先生」也可用于医生、律师等，不只指教师。",
+    "cefr": "N5",
+    "topic": "education",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "benkyou",
+    "w": "勉強",
+    "kana": "べんきょう",
+    "romaji": "benkyou",
+    "uk": "べんきょう",
+    "us": "benkyou",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "学习",
+        "en": "学ぶこと"
+      }
+    ],
+    "ex": [
+      {
+        "en": "夜は一時間だけ勉強します。",
+        "zh": "晚上只学习一小时。",
+        "romaji": "yoru ha ichijikan dake benkyou shimasu"
+      },
+      {
+        "en": "留学前に日本語を集中的に勉強する必要がある。",
+        "zh": "留学前有必要集中学习日语。",
+        "romaji": "ryuugaku mae ni nihongo wo shuuchuuteki ni benkyou suru hitsuyou gaaru"
+      }
+    ],
+    "col": [
+      "勉強する｜学习",
+      "勉強になる｜有所收获"
+    ],
+    "fam": [
+      "学習"
+    ],
+    "syn": [
+      "研修"
+    ],
+    "ant": [],
+    "tip": "「勉強」作名词，加「する」才是动词。",
+    "cefr": "N5",
+    "topic": "education",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "shukudai",
+    "w": "宿題",
+    "kana": "しゅくだい",
+    "romaji": "shukudai",
+    "uk": "しゅくだい",
+    "us": "shukudai",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "作业",
+        "en": "課された課題"
+      }
+    ],
+    "ex": [
+      {
+        "en": "宿題を終わらせてから遊びに行く。",
+        "zh": "写完作业再去玩。",
+        "romaji": "shukudai wo owa rasetekara asobi ni iku"
+      },
+      {
+        "en": "提出期限を過ぎた宿題は評価の対象外となる。",
+        "zh": "超过提交期限的作业不计入评价。",
+        "romaji": "teishutsukigen wo sugi ta shukudai ha hyouka no taishougai tonaru"
+      }
+    ],
+    "col": [
+      "宿題を出す｜布置作业",
+      "宿題をする｜做作业"
+    ],
+    "fam": [
+      "課題"
+    ],
+    "syn": [
+      "練習"
+    ],
+    "ant": [],
+    "tip": "「宿題」是学校作业，工作上的任务多说「課題」。",
+    "cefr": "N5",
+    "topic": "education",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "shiken",
+    "w": "試験",
+    "kana": "しけん",
+    "romaji": "shiken",
+    "uk": "しけん",
+    "us": "shiken",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "考试",
+        "en": "能力を測る試み"
+      }
+    ],
+    "ex": [
+      {
+        "en": "明日の試験のために単語を覚える。",
+        "zh": "为明天的考试背单词。",
+        "romaji": "ashita no shiken notameni tango wo oboe ru"
+      },
+      {
+        "en": "試験の結果は合否だけでなく学習の指針にもなる。",
+        "zh": "考试结果不仅决定及格与否，也是学习的指针。",
+        "romaji": "shiken no kekka ha gouhi dakedenaku gakushuu no shishin nimonaru"
+      }
+    ],
+    "col": [
+      "試験を受ける｜参加考试",
+      "試験に合格する｜考试合格"
+    ],
+    "fam": [
+      "テスト"
+    ],
+    "syn": [
+      "受験"
+    ],
+    "ant": [],
+    "tip": "「試験」也可指试验、试用，如「臨床試験」。",
+    "cefr": "N4",
+    "topic": "education",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "jugyou",
+    "w": "授業",
+    "kana": "じゅぎょう",
+    "romaji": "jugyou",
+    "uk": "じゅぎょう",
+    "us": "jugyou",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "课；上课",
+        "en": "教える時間"
+      }
+    ],
+    "ex": [
+      {
+        "en": "三限目の授業は教室が変更になった。",
+        "zh": "第三节课换了教室。",
+        "romaji": "san genme no jugyou ha kyoushitsu ga henkou ninatta"
+      },
+      {
+        "en": "対面授業と遠隔授業を組み合わせた設計が検討されている。",
+        "zh": "正在研究把面授课与远程课结合的方案。",
+        "romaji": "taimen jugyou to enkaku jugyou wo kumiawase ta sekkei ga kentousa reteiru"
+      }
+    ],
+    "col": [
+      "授業に出る｜上课",
+      "授業を休む｜缺课"
+    ],
+    "fam": [
+      "講義"
+    ],
+    "syn": [
+      "レッスン"
+    ],
+    "ant": [],
+    "tip": "大学里的课常说「講義」，中小学多用「授業」。",
+    "cefr": "N4",
+    "topic": "education",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "sotsugyou",
+    "w": "卒業",
+    "kana": "そつぎょう",
+    "romaji": "sotsugyou",
+    "uk": "そつぎょう",
+    "us": "sotsugyou",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "毕业",
+        "en": "課程を終えること"
+      }
+    ],
+    "ex": [
+      {
+        "en": "来年三月に大学を卒業します。",
+        "zh": "明年三月从大学毕业。",
+        "romaji": "rainen sangatsu ni daigaku wo sotsugyou shimasu"
+      },
+      {
+        "en": "卒業後も母校とのネットワークを活かす人が多い。",
+        "zh": "很多人毕业后仍善用母校的人脉。",
+        "romaji": "sotsugyougo mo bokou tono nettowaaku wo ika su nin ga ooi"
+      }
+    ],
+    "col": [
+      "卒業する｜毕业",
+      "卒業式｜毕业典礼"
+    ],
+    "fam": [
+      "卒業生"
+    ],
+    "syn": [
+      "修了"
+    ],
+    "ant": [
+      "入学"
+    ],
+    "tip": "「卒業」用于学校，培训班结业多用「修了」。",
+    "cefr": "N3",
+    "topic": "education",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "shougakukin",
+    "w": "奨学金",
+    "kana": "しょうがくきん",
+    "romaji": "shougakukin",
+    "uk": "しょうがくきん",
+    "us": "shougakukin",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "奖学金",
+        "en": "学資の給付"
+      }
+    ],
+    "ex": [
+      {
+        "en": "奨学金のおかげで進学を諦めずに済んだ。",
+        "zh": "多亏奖学金才没有放弃升学。",
+        "romaji": "shougakukin nookagede shingaku wo akirame zuni sun da"
+      },
+      {
+        "en": "奨学金には返還義務のあるものと給付型がある。",
+        "zh": "奖学金有需要偿还的和无偿给付的两种。",
+        "romaji": "shougakukin niha henkan gimu noarumonoto kyuufu kata gaaru"
+      }
+    ],
+    "col": [
+      "奨学金をもらう｜获得奖学金",
+      "奨学金を返す｜偿还奖学金"
+    ],
+    "fam": [
+      "学資"
+    ],
+    "syn": [
+      "助成金"
+    ],
+    "ant": [],
+    "tip": "日本「奨学金」很多是贷款，要注意是否需要返还。",
+    "cefr": "N2",
+    "topic": "education",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "shigoto",
+    "w": "仕事",
+    "kana": "しごと",
+    "romaji": "shigoto",
+    "uk": "しごと",
+    "us": "shigoto",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "工作；活儿",
+        "en": "生計のための活動"
+      }
+    ],
+    "ex": [
+      {
+        "en": "今日は仕事が早く終わりそうだ。",
+        "zh": "今天的工作好像能早点结束。",
+        "romaji": "konnichiha shigoto ga hayaku owari souda"
+      },
+      {
+        "en": "仕事の進め方を見直して残業を減らした。",
+        "zh": "重新审视工作方式后减少了加班。",
+        "romaji": "shigoto no susumekata wo minaoshi te zangyou wo hera shita"
+      }
+    ],
+    "col": [
+      "仕事を探す｜找工作",
+      "仕事が忙しい｜工作忙"
+    ],
+    "fam": [
+      "勤務"
+    ],
+    "syn": [
+      "業務"
+    ],
+    "ant": [
+      "休暇"
+    ],
+    "tip": "「仕事」指具体工作，职业一般说「職業」。",
+    "cefr": "N5",
+    "topic": "work",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "kaisha",
+    "w": "会社",
+    "kana": "かいしゃ",
+    "romaji": "kaisha",
+    "uk": "かいしゃ",
+    "us": "kaisha",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "公司",
+        "en": "営利を目的とする組織"
+      }
+    ],
+    "ex": [
+      {
+        "en": "父は小さな会社で働いている。",
+        "zh": "父亲在一家小公司工作。",
+        "romaji": "chichi ha chiisa na kaisha de hatarai teiru"
+      },
+      {
+        "en": "会社の業績は為替の動向に左右されやすい。",
+        "zh": "公司业绩容易受汇率走势影响。",
+        "romaji": "kaisha no gyouseki ha kawase no doukou ni sayuu sareyasui"
+      }
+    ],
+    "col": [
+      "会社を作る｜开公司",
+      "会社を辞める｜辞职"
+    ],
+    "fam": [
+      "企業"
+    ],
+    "syn": [
+      "職場"
+    ],
+    "ant": [],
+    "tip": "「会社」偏口语与具体组织，「企業」更偏书面与经济语境。",
+    "cefr": "N5",
+    "topic": "work",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "kaigi",
+    "w": "会議",
+    "kana": "かいぎ",
+    "romaji": "kaigi",
+    "uk": "かいぎ",
+    "us": "kaigi",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "会议",
+        "en": "話し合う場"
+      }
+    ],
+    "ex": [
+      {
+        "en": "十時から会議があるので資料を印刷する。",
+        "zh": "十点有会议，先把资料打印出来。",
+        "romaji": "totoki kara kaigi gaarunode shiryou wo insatsu suru"
+      },
+      {
+        "en": "会議の議事録は当日中に全員へ共有された。",
+        "zh": "会议记录当天就分享给了全体成员。",
+        "romaji": "kaigi no gijiroku ha toujitsuchuu ni zen in he kyouyuu sareta"
+      }
+    ],
+    "col": [
+      "会議を開く｜开会",
+      "会議に出る｜出席会议"
+    ],
+    "fam": [
+      "打ち合わせ"
+    ],
+    "syn": [
+      "ミーティング"
+    ],
+    "ant": [],
+    "tip": "正式讨论用「会議」，简短碰头用「打ち合わせ」。",
+    "cefr": "N4",
+    "topic": "work",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "kyuuryou",
+    "w": "給料",
+    "kana": "きゅうりょう",
+    "romaji": "kyuuryou",
+    "uk": "きゅうりょう",
+    "us": "kyuuryou",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "工资",
+        "en": "労働の対価"
+      }
+    ],
+    "ex": [
+      {
+        "en": "給料の一部を毎月貯金している。",
+        "zh": "每月把工资的一部分存起来。",
+        "romaji": "kyuuryou no ichibu wo maitsuki chokin shiteiru"
+      },
+      {
+        "en": "給料の水準は物価の上昇に追いついていない。",
+        "zh": "工资水平没有跟上物价上涨。",
+        "romaji": "kyuuryou no suijun ha bukka no joushou ni oi tsuiteinai"
+      }
+    ],
+    "col": [
+      "給料が上がる｜涨工资",
+      "給料をもらう｜领工资"
+    ],
+    "fam": [
+      "賃金"
+    ],
+    "syn": [
+      "月給"
+    ],
+    "ant": [],
+    "tip": "「給料」偏口语，书面统计常用「賃金」「給与」。",
+    "cefr": "N4",
+    "topic": "work",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "joushi",
+    "w": "上司",
+    "kana": "じょうし",
+    "romaji": "joushi",
+    "uk": "じょうし",
+    "us": "joushi",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "上司",
+        "en": "職場で上位の人"
+      }
+    ],
+    "ex": [
+      {
+        "en": "上司に相談してから返事を出します。",
+        "zh": "和上司商量后再回复。",
+        "romaji": "joushi ni soudan shitekara henji wo dashi masu"
+      },
+      {
+        "en": "上司の承認を得ずに契約を進めることはできない。",
+        "zh": "未获上司批准不能推进合同。",
+        "romaji": "joushi no shounin wo ezu ni keiyaku wo susume rukotohadekinai"
+      }
+    ],
+    "col": [
+      "上司に報告する｜向上司汇报",
+      "上司の指示｜上司的指示"
+    ],
+    "fam": [
+      "部長"
+    ],
+    "syn": [
+      "部下"
+    ],
+    "ant": [
+      "部下"
+    ],
+    "tip": "「上司」与「部下」相对，称呼对方时一般不直接用作称谓。",
+    "cefr": "N3",
+    "topic": "work",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "shimekiri",
+    "w": "締切",
+    "kana": "しめきり",
+    "romaji": "shimekiri",
+    "uk": "しめきり",
+    "us": "shimekiri",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "截止日期",
+        "en": "提出の期限"
+      }
+    ],
+    "ex": [
+      {
+        "en": "レポートの締切は今週の金曜日です。",
+        "zh": "报告的截止日期是本周五。",
+        "romaji": "repooto no shimekiri ha konshuu no kinyoubi desu"
+      },
+      {
+        "en": "締切を過ぎた申請は原則として受理されない。",
+        "zh": "超过截止日期的申请原则上不予受理。",
+        "romaji": "shimekiri wo sugi ta shinsei ha gensoku toshite juri sarenai"
+      }
+    ],
+    "col": [
+      "締切を守る｜遵守截止日期",
+      "締切を延ばす｜延长截止日期"
+    ],
+    "fam": [
+      "期限"
+    ],
+    "syn": [
+      "納期"
+    ],
+    "ant": [],
+    "tip": "也写作「締め切り」，公告里多用汉字省略的「締切」。",
+    "cefr": "N3",
+    "topic": "work",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "shuushoku",
+    "w": "就職",
+    "kana": "しゅうしょく",
+    "romaji": "shuushoku",
+    "uk": "しゅうしょく",
+    "us": "shuushoku",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "就业；求职",
+        "en": "職に就くこと"
+      }
+    ],
+    "ex": [
+      {
+        "en": "卒業後は地元で就職したい。",
+        "zh": "毕业后想在家乡就业。",
+        "romaji": "sotsugyougo ha jimoto de shuushoku shitai"
+      },
+      {
+        "en": "新卒の就職活動は在学中に長期化する傾向がある。",
+        "zh": "应届生的求职活动有在校期间长期化的趋势。",
+        "romaji": "shinsotsu no shuushokukatsudou ha zaigakuchuu ni choukika suru keikou gaaru"
+      }
+    ],
+    "col": [
+      "就職する｜就业",
+      "就職活動｜求职活动"
+    ],
+    "fam": [
+      "就業"
+    ],
+    "syn": [
+      "採用"
+    ],
+    "ant": [
+      "退職"
+    ],
+    "tip": "「就職」指进入组织工作，换工作说「転職」。",
+    "cefr": "N2",
+    "topic": "work",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "zangyou",
+    "w": "残業",
+    "kana": "ざんぎょう",
+    "romaji": "zangyou",
+    "uk": "ざんぎょう",
+    "us": "zangyou",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "加班",
+        "en": "定時を超える勤務"
+      }
+    ],
+    "ex": [
+      {
+        "en": "今日は残業せずにまっすぐ帰る。",
+        "zh": "今天不加班，直接回家。",
+        "romaji": "konnichiha zangyou sezunimassugu kaeru"
+      },
+      {
+        "en": "残業時間の上限を超えた場合は是正が求められる。",
+        "zh": "加班时间超过上限时会被要求整改。",
+        "romaji": "zangyoujikan no jougen wo koe ta baai ha zesei ga motome rareru"
+      }
+    ],
+    "col": [
+      "残業する｜加班",
+      "残業代｜加班费"
+    ],
+    "fam": [
+      "時間外労働"
+    ],
+    "syn": [
+      "超過勤務"
+    ],
+    "ant": [],
+    "tip": "口语常说「残業」，正式文件多用「時間外労働」。",
+    "cefr": "N2",
+    "topic": "work",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "denwa",
+    "w": "電話",
+    "kana": "でんわ",
+    "romaji": "denwa",
+    "uk": "でんわ",
+    "us": "denwa",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "电话；通话",
+        "en": "声を伝える装置"
+      }
+    ],
+    "ex": [
+      {
+        "en": "母から電話がかかってきた。",
+        "zh": "妈妈打来了电话。",
+        "romaji": "haha kara denwa gakakattekita"
+      },
+      {
+        "en": "電話による本人確認だけでは不充分とされる。",
+        "zh": "仅凭电话确认本人身份被认为不够充分。",
+        "romaji": "denwa niyoru honnin kakunin dakedeha fujuubun tosareru"
+      }
+    ],
+    "col": [
+      "電話をかける｜打电话",
+      "電話に出る｜接电话"
+    ],
+    "fam": [
+      "通話"
+    ],
+    "syn": [
+      "携帯"
+    ],
+    "ant": [],
+    "tip": "「電話」既可指设备也可指通话，手机一般说「携帯」「スマホ」。",
+    "cefr": "N5",
+    "topic": "technology",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "kikai",
+    "w": "機械",
+    "kana": "きかい",
+    "romaji": "kikai",
+    "uk": "きかい",
+    "us": "kikai",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "机器",
+        "en": "動力で動く装置"
+      }
+    ],
+    "ex": [
+      {
+        "en": "この機械はボタン一つで動く。",
+        "zh": "这台机器按一个按钮就能运转。",
+        "romaji": "kono kikai ha botan hitotsu de ugoku"
+      },
+      {
+        "en": "機械の定期点検を怠ると故障の原因になる。",
+        "zh": "疏于对机器定期检修会导致故障。",
+        "romaji": "kikai no teikitenken wo okotaru to koshou no gen in ninaru"
+      }
+    ],
+    "col": [
+      "機械を動かす｜开动机器",
+      "機械が壊れる｜机器坏了"
+    ],
+    "fam": [
+      "装置"
+    ],
+    "syn": [
+      "設備"
+    ],
+    "ant": [],
+    "tip": "「機械」强调有动力运转的装置，简单工具说「道具」。",
+    "cefr": "N5",
+    "topic": "technology",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "denchi",
+    "w": "電池",
+    "kana": "でんち",
+    "romaji": "denchi",
+    "uk": "でんち",
+    "us": "denchi",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "电池",
+        "en": "電気を蓄えるもの"
+      }
+    ],
+    "ex": [
+      {
+        "en": "時計の電池が切れてしまった。",
+        "zh": "手表的电池没电了。",
+        "romaji": "tokei no denchi ga kire teshimatta"
+      },
+      {
+        "en": "使用済みの電池は分別して回収する必要がある。",
+        "zh": "废旧电池需要分类回收。",
+        "romaji": "shiyouzumi no denchi ha funbetsu shite kaishuu suru hitsuyou gaaru"
+      }
+    ],
+    "col": [
+      "電池を替える｜换电池",
+      "電池が切れる｜电池没电"
+    ],
+    "fam": [
+      "バッテリー"
+    ],
+    "syn": [
+      "充電"
+    ],
+    "ant": [],
+    "tip": "充电池常说「バッテリー」，一次性电池多用「電池」。",
+    "cefr": "N4",
+    "topic": "technology",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "gamen",
+    "w": "画面",
+    "kana": "がめん",
+    "romaji": "gamen",
+    "uk": "がめん",
+    "us": "gamen",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "屏幕；画面",
+        "en": "表示される映像"
+      }
+    ],
+    "ex": [
+      {
+        "en": "画面が暗くて文字が読めない。",
+        "zh": "屏幕太暗，看不清字。",
+        "romaji": "gamen ga kuraku te moji ga yome nai"
+      },
+      {
+        "en": "画面の設計は利用者の視線の動きを考慮している。",
+        "zh": "界面设计考虑了使用者的视线移动。",
+        "romaji": "gamen no sekkei ha riyousha no shisen no ugoki wo kouryoshi teiru"
+      }
+    ],
+    "col": [
+      "画面を見る｜看屏幕",
+      "画面が切り替わる｜切换画面"
+    ],
+    "fam": [
+      "ディスプレイ"
+    ],
+    "syn": [
+      "表示"
+    ],
+    "ant": [],
+    "tip": "也用于「画面構成」等，指界面布局而非硬件时仍用「画面」。",
+    "cefr": "N4",
+    "topic": "technology",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "setsuzoku",
+    "w": "接続",
+    "kana": "せつぞく",
+    "romaji": "setsuzoku",
+    "uk": "せつぞく",
+    "us": "setsuzoku",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "连接",
+        "en": "つなぐこと"
+      }
+    ],
+    "ex": [
+      {
+        "en": "無線の接続が時々切れる。",
+        "zh": "无线连接有时会断开。",
+        "romaji": "musen no setsuzoku ga tokidoki kire ru"
+      },
+      {
+        "en": "接続が不安定な環境では通信品質が低下する。",
+        "zh": "在连接不稳定的环境下通信质量会下降。",
+        "romaji": "setsuzoku ga fuantei na kankyou deha tsuushin hinshitsu ga teika suru"
+      }
+    ],
+    "col": [
+      "接続する｜连接",
+      "接続が切れる｜断线"
+    ],
+    "fam": [
+      "連結"
+    ],
+    "syn": [
+      "リンク"
+    ],
+    "ant": [
+      "切断"
+    ],
+    "tip": "IT 语境常直接说「接続」，也可写作「コネクション」。",
+    "cefr": "N3",
+    "topic": "technology",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "jouhou",
+    "w": "情報",
+    "kana": "じょうほう",
+    "romaji": "jouhou",
+    "uk": "じょうほう",
+    "us": "jouhou",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "信息；资讯",
+        "en": "知らせや資料"
+      }
+    ],
+    "ex": [
+      {
+        "en": "最新の情報をインターネットで調べる。",
+        "zh": "在网上查最新信息。",
+        "romaji": "saishin no jouhou wo intaanetto de shirabe ru"
+      },
+      {
+        "en": "個人情報の取り扱いには厳格な管理が求められる。",
+        "zh": "个人信息处理需要严格管理。",
+        "romaji": "kojinjouhou no toriatsukai niha genkaku na kanri ga motome rareru"
+      }
+    ],
+    "col": [
+      "情報を集める｜收集信息",
+      "情報が漏れる｜信息泄露"
+    ],
+    "fam": [
+      "データ"
+    ],
+    "syn": [
+      "知識"
+    ],
+    "ant": [],
+    "tip": "「情報」范围比「データ」广，包含经过整理的资讯。",
+    "cefr": "N3",
+    "topic": "technology",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "koushin",
+    "w": "更新",
+    "kana": "こうしん",
+    "romaji": "koushin",
+    "uk": "こうしん",
+    "us": "koushin",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "更新",
+        "en": "新しくすること"
+      }
+    ],
+    "ex": [
+      {
+        "en": "アプリを最新版に更新した。",
+        "zh": "把应用更新到了最新版。",
+        "romaji": "apuri wo saishinban ni koushin shita"
+      },
+      {
+        "en": "更新の適用前に必ず資料の控えを保存してください。",
+        "zh": "应用更新前请务必保存资料备份。",
+        "romaji": "koushin no tekiyou mae ni kanarazu shiryou no hikae wo hozon shitekudasai"
+      }
+    ],
+    "col": [
+      "更新する｜更新",
+      "更新が来る｜推送更新"
+    ],
+    "fam": [
+      "アップデート"
+    ],
+    "syn": [
+      "改訂"
+    ],
+    "ant": [],
+    "tip": "软件多用「アップデート」，手续、证件的更新用「更新」。",
+    "cefr": "N2",
+    "topic": "technology",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "jinkouchinou",
+    "w": "人工知能",
+    "kana": "じんこうちのう",
+    "romaji": "jinkouchinou",
+    "uk": "じんこうちのう",
+    "us": "jinkouchinou",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "人工智能",
+        "en": "知能を模した仕組み"
+      }
+    ],
+    "ex": [
+      {
+        "en": "人工知能で翻訳の下書きを作る。",
+        "zh": "用人工智能生成翻译初稿。",
+        "romaji": "jinkouchinou de honyaku no shitagaki wo tsukuru"
+      },
+      {
+        "en": "人工知能の判断過程には説明可能性が求められる。",
+        "zh": "人工智能的判断过程被要求具备可解释性。",
+        "romaji": "jinkouchinou no handan katei niha setsumeikanou sei ga motome rareru"
+      }
+    ],
+    "col": [
+      "人工知能を活用する｜运用人工智能",
+      "人工知能が普及する｜人工智能普及"
+    ],
+    "fam": [
+      "AI"
+    ],
+    "syn": [
+      "機械学習"
+    ],
+    "ant": [],
+    "tip": "书面语用「人工知能」，日常与技术文档常直接写「AI」。",
+    "cefr": "N1",
+    "topic": "technology",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "jikken",
+    "w": "実験",
+    "kana": "じっけん",
+    "romaji": "jikken",
+    "uk": "じっけん",
+    "us": "jikken",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "实验",
+        "en": "仮説を確かめる試み"
+      }
+    ],
+    "ex": [
+      {
+        "en": "理科の時間に簡単な実験をした。",
+        "zh": "理科课上做了个简单的实验。",
+        "romaji": "rika no jikan ni kantan na jikken woshita"
+      },
+      {
+        "en": "同一条件で実験を繰り返し再現性を確認した。",
+        "zh": "在相同条件下重复实验以确认可重现性。",
+        "romaji": "douitsujouken de jikken wo kurikaeshi saigensei wo kakuninshi ta"
+      }
+    ],
+    "col": [
+      "実験をする｜做实验",
+      "実験室｜实验室"
+    ],
+    "fam": [
+      "検証"
+    ],
+    "syn": [
+      "試験"
+    ],
+    "ant": [],
+    "tip": "「実験」是验证假设，「試験」是测定能力，不要混用。",
+    "cefr": "N4",
+    "topic": "science",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "kansatsu",
+    "w": "観察",
+    "kana": "かんさつ",
+    "romaji": "kansatsu",
+    "uk": "かんさつ",
+    "us": "kansatsu",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "观察",
+        "en": "注意深く見ること"
+      }
+    ],
+    "ex": [
+      {
+        "en": "虫の動きを十分間観察した。",
+        "zh": "观察了十分钟虫子的活动。",
+        "romaji": "mushi no ugoki wo juppunkan kansatsu shita"
+      },
+      {
+        "en": "長期の観察データから季節的な変化が読み取れる。",
+        "zh": "从长期观测数据可以看出季节性变化。",
+        "romaji": "chouki no kansatsu deeta kara kisetsuteki na henka ga yomitore ru"
+      }
+    ],
+    "col": [
+      "観察する｜观察",
+      "観察記録｜观察记录"
+    ],
+    "fam": [
+      "観測"
+    ],
+    "syn": [
+      "注視"
+    ],
+    "ant": [],
+    "tip": "自然对象的持续记录常用「観測」，课堂多用「観察」。",
+    "cefr": "N4",
+    "topic": "science",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "kekka",
+    "w": "結果",
+    "kana": "けっか",
+    "romaji": "kekka",
+    "uk": "けっか",
+    "us": "kekka",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "结果",
+        "en": "生じた帰結"
+      }
+    ],
+    "ex": [
+      {
+        "en": "結果は明日の朝に分かる。",
+        "zh": "结果明天早上就知道了。",
+        "romaji": "kekka ha ashita no asa ni waka ru"
+      },
+      {
+        "en": "結果の解釈には測定誤差を考慮する必要がある。",
+        "zh": "解释结果时需要考虑测量误差。",
+        "romaji": "kekka no kaishaku niha sokutei gosa wo kouryosu ru hitsuyou gaaru"
+      }
+    ],
+    "col": [
+      "結果が出る｜出结果",
+      "結果をまとめる｜汇总结果"
+    ],
+    "fam": [
+      "成果"
+    ],
+    "syn": [
+      "結論"
+    ],
+    "ant": [
+      "原因"
+    ],
+    "tip": "「結果」是客观产出，「結論」是从中导出的判断。",
+    "cefr": "N4",
+    "topic": "science",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "kasetsu",
+    "w": "仮説",
+    "kana": "かせつ",
+    "romaji": "kasetsu",
+    "uk": "かせつ",
+    "us": "kasetsu",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "假说；假设",
+        "en": "検証前の説明"
+      }
+    ],
+    "ex": [
+      {
+        "en": "その仮説なら説明がつきそうだ。",
+        "zh": "用那个假说似乎能解释得通。",
+        "romaji": "sono kasetsu nara setsumei gatsukisouda"
+      },
+      {
+        "en": "仮説を立てたうえで反証可能性を検討すべきだ。",
+        "zh": "应先提出假说再讨论其可证伪性。",
+        "romaji": "kasetsu wo tate tauede hanshou kanousei wo kentousu bekida"
+      }
+    ],
+    "col": [
+      "仮説を立てる｜提出假说",
+      "仮説を検証する｜验证假说"
+    ],
+    "fam": [
+      "想定"
+    ],
+    "syn": [
+      "推論"
+    ],
+    "ant": [
+      "定説"
+    ],
+    "tip": "「仮説」尚未验证，被公认后才称「定説」。",
+    "cefr": "N3",
+    "topic": "science",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "housoku",
+    "w": "法則",
+    "kana": "ほうそく",
+    "romaji": "housoku",
+    "uk": "ほうそく",
+    "us": "housoku",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "法则；定律",
+        "en": "普遍的な規則"
+      }
+    ],
+    "ex": [
+      {
+        "en": "この法則は中学校で習った。",
+        "zh": "这条定律是初中学的。",
+        "romaji": "kono housoku ha chuugakkou de naratsu ta"
+      },
+      {
+        "en": "物理の法則は一定の条件下でのみ成立する。",
+        "zh": "物理定律只在特定条件下成立。",
+        "romaji": "butsuri no housoku ha ittei no joukenka denomi seiritsu suru"
+      }
+    ],
+    "col": [
+      "法則が成り立つ｜定律成立",
+      "法則を発見する｜发现定律"
+    ],
+    "fam": [
+      "定理"
+    ],
+    "syn": [
+      "原理"
+    ],
+    "ant": [
+      "例外"
+    ],
+    "tip": "数学中证明过的命题叫「定理」，自然现象规律叫「法則」。",
+    "cefr": "N2",
+    "topic": "science",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "sokutei",
+    "w": "測定",
+    "kana": "そくてい",
+    "romaji": "sokutei",
+    "uk": "そくてい",
+    "us": "sokutei",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "测量",
+        "en": "値を測ること"
+      }
+    ],
+    "ex": [
+      {
+        "en": "温度を一分ごとに測定する。",
+        "zh": "每分钟测一次温度。",
+        "romaji": "ondo wo ichibu gotoni sokutei suru"
+      },
+      {
+        "en": "測定値のばらつきは機器の精度に依存する。",
+        "zh": "测量值的离散程度取决于仪器精度。",
+        "romaji": "sokuteichi nobaratsukiha kiki no seido ni izon suru"
+      }
+    ],
+    "col": [
+      "測定する｜测量",
+      "測定値｜测量值"
+    ],
+    "fam": [
+      "計測"
+    ],
+    "syn": [
+      "計量"
+    ],
+    "ant": [],
+    "tip": "「測定」求数值，「計量」常用于法定计量与商业交易。",
+    "cefr": "N2",
+    "topic": "science",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "bunshi",
+    "w": "分子",
+    "kana": "ぶんし",
+    "romaji": "bunshi",
+    "uk": "ぶんし",
+    "us": "bunshi",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "分子",
+        "en": "物質の最小単位"
+      }
+    ],
+    "ex": [
+      {
+        "en": "水の分子は二つの水素から成る。",
+        "zh": "水分子由两个氢原子构成。",
+        "romaji": "mizu no bunshi ha futatsu no suiso kara naru"
+      },
+      {
+        "en": "分子の構造を解析すれば性質の予測が可能になる。",
+        "zh": "解析分子结构就能预测其性质。",
+        "romaji": "bunshi no kouzou wo kaiseki sureba seishitsu no yosoku ga kanouni naru"
+      }
+    ],
+    "col": [
+      "分子が集まる｜分子聚集",
+      "分子の構造｜分子结构"
+    ],
+    "fam": [
+      "原子"
+    ],
+    "syn": [
+      "粒子"
+    ],
+    "ant": [],
+    "tip": "「分子」由「原子」组成，「分母」则是数学用语，容易混淆。",
+    "cefr": "N1",
+    "topic": "science",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "shoumei",
+    "w": "証明",
+    "kana": "しょうめい",
+    "romaji": "shoumei",
+    "uk": "しょうめい",
+    "us": "shoumei",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "证明",
+        "en": "正しさを示すこと"
+      }
+    ],
+    "ex": [
+      {
+        "en": "定理をノートに証明してみた。",
+        "zh": "在笔记本上试着证明了定理。",
+        "romaji": "teiri wo nooto ni shoumeishi temita"
+      },
+      {
+        "en": "反例を示せばその主張が誤りだと証明できる。",
+        "zh": "只要举出反例就能证明该主张有误。",
+        "romaji": "hanrei wo shimese basono shuchou ga ayamari dato shoumei dekiru"
+      }
+    ],
+    "col": [
+      "証明する｜证明",
+      "証明書｜证明书"
+    ],
+    "fam": [
+      "論証"
+    ],
+    "syn": [
+      "実証"
+    ],
+    "ant": [
+      "反証"
+    ],
+    "tip": "数学用「証明」，用实验数据支持多用「実証」。",
+    "cefr": "N1",
+    "topic": "science",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "shizen",
+    "w": "自然",
+    "kana": "しぜん",
+    "romaji": "shizen",
+    "uk": "しぜん",
+    "us": "shizen",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "自然",
+        "en": "人の手を加えない世界"
+      }
+    ],
+    "ex": [
+      {
+        "en": "週末は自然の中を歩きたい。",
+        "zh": "周末想去大自然里走走。",
+        "romaji": "shuumatsu ha shizen no naka wo aruki tai"
+      },
+      {
+        "en": "自然環境の保全と開発の両立が課題となっている。",
+        "zh": "如何兼顾自然保护与开发成为课题。",
+        "romaji": "shizenkankyou no hozen to kaihatsu no ryouritsu ga kadai tonatteiru"
+      }
+    ],
+    "col": [
+      "自然を守る｜保护自然",
+      "自然に親しむ｜亲近自然"
+    ],
+    "fam": [
+      "自然界"
+    ],
+    "syn": [
+      "環境"
+    ],
+    "ant": [
+      "人工"
+    ],
+    "tip": "也可作副词「自然に」，意为自然而然地。",
+    "cefr": "N5",
+    "topic": "environment",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "kuuki",
+    "w": "空気",
+    "kana": "くうき",
+    "romaji": "kuuki",
+    "uk": "くうき",
+    "us": "kuuki",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "空气",
+        "en": "地球を包む気体"
+      }
+    ],
+    "ex": [
+      {
+        "en": "朝の空気は冷たくて気持ちいい。",
+        "zh": "早晨的空气又冷又舒服。",
+        "romaji": "asa no kuuki ha tsumetaku te kimochii i"
+      },
+      {
+        "en": "室内の空気を入れ替えて換気を徹底した。",
+        "zh": "彻底换气，更新了室内空气。",
+        "romaji": "shitsunai no kuuki wo irekae te kanki wo tettei shita"
+      }
+    ],
+    "col": [
+      "空気がきれい｜空气清新",
+      "空気を読む｜察言观色"
+    ],
+    "fam": [
+      "大気"
+    ],
+    "syn": [
+      "雰囲気"
+    ],
+    "ant": [],
+    "tip": "「空気を読む」是惯用表达，指体会现场气氛。",
+    "cefr": "N5",
+    "topic": "environment",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "osen",
+    "w": "汚染",
+    "kana": "おせん",
+    "romaji": "osen",
+    "uk": "おせん",
+    "us": "osen",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "污染",
+        "en": "汚すこと"
+      }
+    ],
+    "ex": [
+      {
+        "en": "工場の排水で川が汚染された。",
+        "zh": "工厂废水污染了河流。",
+        "romaji": "koujou no haisui de kawa ga osen sareta"
+      },
+      {
+        "en": "大気汚染の濃度基準は年々厳しく改定される。",
+        "zh": "大气污染的浓度标准逐年严格修订。",
+        "romaji": "taikiosen no noudo kijun ha nennen ikameshiku kaitei sareru"
+      }
+    ],
+    "col": [
+      "汚染が進む｜污染加剧",
+      "汚染を防ぐ｜防止污染"
+    ],
+    "fam": [
+      "公害"
+    ],
+    "syn": [
+      "浄化"
+    ],
+    "ant": [
+      "浄化"
+    ],
+    "tip": "「汚染」指物质进入环境，「公害」强调对人的损害。",
+    "cefr": "N3",
+    "topic": "environment",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "shigen",
+    "w": "資源",
+    "kana": "しげん",
+    "romaji": "shigen",
+    "uk": "しげん",
+    "us": "shigen",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "资源",
+        "en": "利用できる素材"
+      }
+    ],
+    "ex": [
+      {
+        "en": "資源を大切に使いましょう。",
+        "zh": "请珍惜使用资源。",
+        "romaji": "shigen wo taisetsu ni tsukai mashou"
+      },
+      {
+        "en": "限りある資源の循環利用が産業政策の柱になった。",
+        "zh": "有限资源的循环利用成为产业政策的支柱。",
+        "romaji": "kagiri aru shigen no junkan riyou ga sangyou seisaku no hashira ninatta"
+      }
+    ],
+    "col": [
+      "資源を節約する｜节约资源",
+      "資源が枯渇する｜资源枯竭"
+    ],
+    "fam": [
+      "能源"
+    ],
+    "syn": [
+      "資材"
+    ],
+    "ant": [],
+    "tip": "也用于「人的資源」等抽象用法，指人才储备。",
+    "cefr": "N3",
+    "topic": "environment",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "kikou",
+    "w": "気候",
+    "kana": "きこう",
+    "romaji": "kikou",
+    "uk": "きこう",
+    "us": "kikou",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "气候",
+        "en": "長期的な天候の傾向"
+      }
+    ],
+    "ex": [
+      {
+        "en": "この地域は気候が穏やかだ。",
+        "zh": "这个地区气候温和。",
+        "romaji": "kono chiiki ha kikou ga odaya kada"
+      },
+      {
+        "en": "気候変動への適応策は自治体ごとに異なる。",
+        "zh": "各地方政府的气候适应对策各不相同。",
+        "romaji": "kikou hendou heno tekiou saku ha jichitai gotoni kotonaru"
+      }
+    ],
+    "col": [
+      "気候が変わる｜气候变化",
+      "温暖な気候｜温暖气候"
+    ],
+    "fam": [
+      "天候"
+    ],
+    "syn": [
+      "気象"
+    ],
+    "ant": [
+      "天気"
+    ],
+    "tip": "「気候」是长期平均，「天気」是每天的天气。",
+    "cefr": "N2",
+    "topic": "environment",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "haikibutsu",
+    "w": "廃棄物",
+    "kana": "はいきぶつ",
+    "romaji": "haikibutsu",
+    "uk": "はいきぶつ",
+    "us": "haikibutsu",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "废弃物",
+        "en": "不要になった物"
+      }
+    ],
+    "ex": [
+      {
+        "en": "廃棄物は分別して出してください。",
+        "zh": "请分类投放废弃物。",
+        "romaji": "haikibutsu ha funbetsu shite dashi tekudasai"
+      },
+      {
+        "en": "産業廃棄物の処理には厳しい記録保管が義務づけられる。",
+        "zh": "产业废弃物的处理被要求严格保存记录。",
+        "romaji": "sangyouhaikibutsu no shori niha ikameshii kiroku hokan ga gimu zukerareru"
+      }
+    ],
+    "col": [
+      "廃棄物を減らす｜减少废弃物",
+      "廃棄物を処理する｜处理废弃物"
+    ],
+    "fam": [
+      "ごみ"
+    ],
+    "syn": [
+      "排出物"
+    ],
+    "ant": [],
+    "tip": "日常说「ごみ」，行政与法律文书用「廃棄物」。",
+    "cefr": "N2",
+    "topic": "environment",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "saisei",
+    "w": "再生",
+    "kana": "さいせい",
+    "romaji": "saisei",
+    "uk": "さいせい",
+    "us": "saisei",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "再生；回收利用",
+        "en": "再び使えるようにすること"
+      }
+    ],
+    "ex": [
+      {
+        "en": "古い紙を再生してノートにした。",
+        "zh": "把旧纸再生做成笔记本。",
+        "romaji": "furui kami wo saisei shite nooto nishita"
+      },
+      {
+        "en": "再生可能エネルギーの導入比率が年々高まっている。",
+        "zh": "可再生能源的引入比例逐年提高。",
+        "romaji": "saiseikanou enerugii no dounyuu hiritsu ga nennen takama tteiru"
+      }
+    ],
+    "col": [
+      "再生する｜再生",
+      "再生紙｜再生纸"
+    ],
+    "fam": [
+      "再利用"
+    ],
+    "syn": [
+      "リサイクル"
+    ],
+    "ant": [
+      "廃棄"
+    ],
+    "tip": "媒体播放也叫「再生」，需按语境区分。",
+    "cefr": "N1",
+    "topic": "environment",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "seitaikei",
+    "w": "生態系",
+    "kana": "せいたいけい",
+    "romaji": "seitaikei",
+    "uk": "せいたいけい",
+    "us": "seitaikei",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "生态系统",
+        "en": "生物と環境のまとまり"
+      }
+    ],
+    "ex": [
+      {
+        "en": "池には小さな生態系がある。",
+        "zh": "池塘里有一个小小的生态系统。",
+        "romaji": "ike niha chiisa na seitaikei gaaru"
+      },
+      {
+        "en": "外来種の侵入は生態系の均衡を崩す恐れがある。",
+        "zh": "外来物种入侵可能破坏生态系统的平衡。",
+        "romaji": "gairaishu no shinnyuu ha seitaikei no kinkou wo kuzusu osore gaaru"
+      }
+    ],
+    "col": [
+      "生態系を守る｜保护生态系统",
+      "生態系が崩れる｜生态系统失衡"
+    ],
+    "fam": [
+      "生物圏"
+    ],
+    "syn": [
+      "環境"
+    ],
+    "ant": [],
+    "tip": "「生態系」强调生物与环境的相互作用整体。",
+    "cefr": "N1",
+    "topic": "environment",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "kenkou",
+    "w": "健康",
+    "kana": "けんこう",
+    "romaji": "kenkou",
+    "uk": "けんこう",
+    "us": "kenkou",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "健康",
+        "en": "体が元気な状態"
+      }
+    ],
+    "ex": [
+      {
+        "en": "健康のために毎朝歩いている。",
+        "zh": "为了健康每天早上散步。",
+        "romaji": "kenkou notameni maiasa arui teiru"
+      },
+      {
+        "en": "健康寿命を延ばす取り組みが自治体で始まった。",
+        "zh": "地方政府开始推行延长健康寿命的措施。",
+        "romaji": "kenkou jumyou wo noba su torikumi ga jichitai de hajima tta"
+      }
+    ],
+    "col": [
+      "健康に気をつける｜注意健康",
+      "健康診断｜体检"
+    ],
+    "fam": [
+      "体調"
+    ],
+    "syn": [
+      "元気"
+    ],
+    "ant": [
+      "病気"
+    ],
+    "tip": "也可作形容动词「健康な人」，意为健康的人。",
+    "cefr": "N5",
+    "topic": "health",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "byouin",
+    "w": "病院",
+    "kana": "びょういん",
+    "romaji": "byouin",
+    "uk": "びょういん",
+    "us": "byouin",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "医院",
+        "en": "診療を行う施設"
+      }
+    ],
+    "ex": [
+      {
+        "en": "熱があるので病院へ行った。",
+        "zh": "因为发烧去了医院。",
+        "romaji": "netsu gaarunode byouin he itta"
+      },
+      {
+        "en": "病院の待ち時間を短縮する予約制度が導入された。",
+        "zh": "医院引入了缩短候诊时间的预约制度。",
+        "romaji": "byouin no machijikan wo tanshuku suru yoyakusei do ga dounyuu sareta"
+      }
+    ],
+    "col": [
+      "病院に行く｜去医院",
+      "病院を出る｜出院"
+    ],
+    "fam": [
+      "診療所"
+    ],
+    "syn": [
+      "クリニック"
+    ],
+    "ant": [],
+    "tip": "小诊所多说「クリニック」，「病院」指有住院设施的医院。",
+    "cefr": "N5",
+    "topic": "health",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "kusuri",
+    "w": "薬",
+    "kana": "くすり",
+    "romaji": "kusuri",
+    "uk": "くすり",
+    "us": "kusuri",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "药",
+        "en": "病気を治すもの"
+      }
+    ],
+    "ex": [
+      {
+        "en": "食事の後に薬を飲みます。",
+        "zh": "饭后吃药。",
+        "romaji": "shokuji no nochini kusuri wo nomi masu"
+      },
+      {
+        "en": "薬の副作用については添付文書に記載されている。",
+        "zh": "药品说明书中记载了副作用。",
+        "romaji": "kusuri no fukusayou nitsuiteha tenpu bunsho ni kisaisa reteiru"
+      }
+    ],
+    "col": [
+      "薬を飲む｜吃药",
+      "薬が効く｜药有效"
+    ],
+    "fam": [
+      "医薬品"
+    ],
+    "syn": [
+      "処方薬"
+    ],
+    "ant": [],
+    "tip": "日语里「薬を飲む」也用于片剂，不说「食べる」。",
+    "cefr": "N5",
+    "topic": "health",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "netsu",
+    "w": "熱",
+    "kana": "ねつ",
+    "romaji": "netsu",
+    "uk": "ねつ",
+    "us": "netsu",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "发烧；热",
+        "en": "高い体温"
+      }
+    ],
+    "ex": [
+      {
+        "en": "昨夜から熱が下がらない。",
+        "zh": "从昨晚起烧一直没退。",
+        "romaji": "sakuya kara netsu ga saga ranai"
+      },
+      {
+        "en": "熱が三日以上続く場合は再受診が勧められる。",
+        "zh": "发烧持续三天以上时建议复诊。",
+        "romaji": "netsu ga mikka ijou tsuzuku baai ha saijushin ga susume rareru"
+      }
+    ],
+    "col": [
+      "熱が出る｜发烧",
+      "熱を測る｜量体温"
+    ],
+    "fam": [
+      "発熱"
+    ],
+    "syn": [
+      "体温"
+    ],
+    "ant": [
+      "寒気"
+    ],
+    "tip": "「熱」也可指热情，如「熱意」；体温语境常说「発熱」。",
+    "cefr": "N4",
+    "topic": "health",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "yobou",
+    "w": "予防",
+    "kana": "よぼう",
+    "romaji": "yobou",
+    "uk": "よぼう",
+    "us": "yobou",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "预防",
+        "en": "前もって防ぐこと"
+      }
+    ],
+    "ex": [
+      {
+        "en": "手洗いで風邪を予防する。",
+        "zh": "用洗手来预防感冒。",
+        "romaji": "tearai de kaze wo yobou suru"
+      },
+      {
+        "en": "ワクチン接種は感染拡大の予防に寄与する。",
+        "zh": "接种疫苗有助于预防感染扩散。",
+        "romaji": "wakuchin sesshu ha kansen kakudai no yobou ni kiyo suru"
+      }
+    ],
+    "col": [
+      "予防する｜预防",
+      "予防接種｜预防接种"
+    ],
+    "fam": [
+      "防止"
+    ],
+    "syn": [
+      "予防策"
+    ],
+    "ant": [
+      "治療"
+    ],
+    "tip": "「予防」在发病前，「治療」在发病后。",
+    "cefr": "N3",
+    "topic": "health",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "suimin",
+    "w": "睡眠",
+    "kana": "すいみん",
+    "romaji": "suimin",
+    "uk": "すいみん",
+    "us": "suimin",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "睡眠",
+        "en": "眠ること"
+      }
+    ],
+    "ex": [
+      {
+        "en": "睡眠をしっかり取ると頭がすっきりする。",
+        "zh": "睡够了头脑就清醒。",
+        "romaji": "suimin woshikkari toru to atama gasukkirisuru"
+      },
+      {
+        "en": "睡眠の質は日中の作業効率と密接に関係する。",
+        "zh": "睡眠质量与白天的工作效率密切相关。",
+        "romaji": "suimin no shitsu ha nitchuu no sagyoukouritsu to missetsu ni kankei suru"
+      }
+    ],
+    "col": [
+      "睡眠を取る｜睡觉",
+      "睡眠不足｜睡眠不足"
+    ],
+    "fam": [
+      "就寝"
+    ],
+    "syn": [
+      "休養"
+    ],
+    "ant": [
+      "覚醒"
+    ],
+    "tip": "书面用「睡眠」，日常多说「寝る」「眠る」。",
+    "cefr": "N3",
+    "topic": "health",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "shinsatsu",
+    "w": "診察",
+    "kana": "しんさつ",
+    "romaji": "shinsatsu",
+    "uk": "しんさつ",
+    "us": "shinsatsu",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "诊察；看诊",
+        "en": "医者が診ること"
+      }
+    ],
+    "ex": [
+      {
+        "en": "午前中に診察を受けた。",
+        "zh": "上午看了诊。",
+        "romaji": "gozenchuu ni shinsatsu wo uke ta"
+      },
+      {
+        "en": "診察の内容は診療録に正確に記載される。",
+        "zh": "诊察内容会被准确记入病历。",
+        "romaji": "shinsatsu no naiyou ha shinryou roku ni seikaku ni kisaisa reru"
+      }
+    ],
+    "col": [
+      "診察を受ける｜接受诊察",
+      "診察室｜诊室"
+    ],
+    "fam": [
+      "診断"
+    ],
+    "syn": [
+      "検診"
+    ],
+    "ant": [
+      "治療"
+    ],
+    "tip": "「診察」是医生检查，「診断」是得出病名结论。",
+    "cefr": "N2",
+    "topic": "health",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "shoujou",
+    "w": "症状",
+    "kana": "しょうじょう",
+    "romaji": "shoujou",
+    "uk": "しょうじょう",
+    "us": "shoujou",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "症状",
+        "en": "病気の現れ"
+      }
+    ],
+    "ex": [
+      {
+        "en": "せき以外の症状は出ていない。",
+        "zh": "除咳嗽外没有别的症状。",
+        "romaji": "seki igai no shoujou ha dete inai"
+      },
+      {
+        "en": "症状が軽快した後も服薬を続ける必要がある。",
+        "zh": "症状缓解后仍需继续服药。",
+        "romaji": "shoujou ga keikai shita nochi mo fukuyaku wo tsuzuke ru hitsuyou gaaru"
+      }
+    ],
+    "col": [
+      "症状が出る｜出现症状",
+      "症状が重い｜症状严重"
+    ],
+    "fam": [
+      "兆候"
+    ],
+    "syn": [
+      "所見"
+    ],
+    "ant": [
+      "無症状"
+    ],
+    "tip": "「所見」是医生客观记录，「症状」也包含患者自述。",
+    "cefr": "N2",
+    "topic": "health",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "shakai",
+    "w": "社会",
+    "kana": "しゃかい",
+    "romaji": "shakai",
+    "uk": "しゃかい",
+    "us": "shakai",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "社会",
+        "en": "人々の集まり"
+      }
+    ],
+    "ex": [
+      {
+        "en": "社会の仕組みを学校で習う。",
+        "zh": "在学校学习社会的运作。",
+        "romaji": "shakai no shikumi wo gakkou de narau"
+      },
+      {
+        "en": "高齢化に伴い社会の支え手の確保が課題だ。",
+        "zh": "伴随老龄化，确保社会的支撑力量成为课题。",
+        "romaji": "koureika ni tomonai shakai no sasae teno kakuho ga kadai da"
+      }
+    ],
+    "col": [
+      "社会に出る｜步入社会",
+      "社会に貢献する｜贡献社会"
+    ],
+    "fam": [
+      "世間"
+    ],
+    "syn": [
+      "共同体"
+    ],
+    "ant": [
+      "個人"
+    ],
+    "tip": "「社会」偏宏观结构，「世間」更偏身边舆论与人情。",
+    "cefr": "N5",
+    "topic": "society",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "kazoku",
+    "w": "家族",
+    "kana": "かぞく",
+    "romaji": "kazoku",
+    "uk": "かぞく",
+    "us": "kazoku",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "家人；家庭",
+        "en": "共に暮らす人々"
+      }
+    ],
+    "ex": [
+      {
+        "en": "日曜日は家族と食事をする。",
+        "zh": "星期天和家人一起吃饭。",
+        "romaji": "nichiyoubi ha kazoku to shokuji wosuru"
+      },
+      {
+        "en": "家族の形態が多様化し制度の見直しが進む。",
+        "zh": "家庭形态多样化，制度修订正在推进。",
+        "romaji": "kazoku no keitai ga tayouka shi seido no minaoshi ga susumu"
+      }
+    ],
+    "col": [
+      "家族と暮らす｜和家人同住",
+      "家族を大切にする｜珍惜家人"
+    ],
+    "fam": [
+      "家庭"
+    ],
+    "syn": [
+      "親族"
+    ],
+    "ant": [
+      "他人"
+    ],
+    "tip": "日语「家族」常指同住的核心成员，「親族」含亲戚。",
+    "cefr": "N5",
+    "topic": "society",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "kinjo",
+    "w": "近所",
+    "kana": "きんじょ",
+    "romaji": "kinjo",
+    "uk": "きんじょ",
+    "us": "kinjo",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "附近；邻居",
+        "en": "住まいの周り"
+      }
+    ],
+    "ex": [
+      {
+        "en": "近所に新しいパン屋ができた。",
+        "zh": "附近新开了一家面包店。",
+        "romaji": "kinjo ni atarashii pan ya gadekita"
+      },
+      {
+        "en": "近所の住民が協力して公園の清掃を続けている。",
+        "zh": "附近居民合作持续清扫公园。",
+        "romaji": "kinjo no juumin ga kyouryoku shite kouen no seisou wo tsuzuke teiru"
+      }
+    ],
+    "col": [
+      "近所を散歩する｜在附近散步",
+      "近所の人｜附近的人"
+    ],
+    "fam": [
+      "周辺"
+    ],
+    "syn": [
+      "町内"
+    ],
+    "ant": [
+      "遠方"
+    ],
+    "tip": "「近所」指空间上的附近，也可转指住在附近的人。",
+    "cefr": "N4",
+    "topic": "society",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "kisoku",
+    "w": "規則",
+    "kana": "きそく",
+    "romaji": "kisoku",
+    "uk": "きそく",
+    "us": "kisoku",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "规则",
+        "en": "守るべき決まり"
+      }
+    ],
+    "ex": [
+      {
+        "en": "図書館の規則を守ってください。",
+        "zh": "请遵守图书馆的规定。",
+        "romaji": "toshokan no kisoku wo mamotsu tekudasai"
+      },
+      {
+        "en": "規則の運用は事例に応じて柔軟に判断される。",
+        "zh": "规则的运用会依具体案例灵活判断。",
+        "romaji": "kisoku no unyou ha jirei ni ouji te juunanni handan sareru"
+      }
+    ],
+    "col": [
+      "規則を守る｜遵守规则",
+      "規則を定める｜制定规则"
+    ],
+    "fam": [
+      "ルール"
+    ],
+    "syn": [
+      "規律"
+    ],
+    "ant": [
+      "例外"
+    ],
+    "tip": "「規則」偏成文条款，道德层面的约束多说「規律」。",
+    "cefr": "N4",
+    "topic": "society",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "seron",
+    "w": "世論",
+    "kana": "せろん",
+    "romaji": "seron",
+    "uk": "せろん",
+    "us": "seron",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "舆论",
+        "en": "社会の意見の傾向"
+      }
+    ],
+    "ex": [
+      {
+        "en": "世論が賛成に傾きつつある。",
+        "zh": "舆论正逐渐倾向赞成。",
+        "romaji": "yoron ga sansei ni katamuki tsutsuaru"
+      },
+      {
+        "en": "世論調査の結果は設問の文言に左右されうる。",
+        "zh": "民意调查结果可能受提问措辞影响。",
+        "romaji": "yoronchousa no kekka ha setsumon no mongon ni sayuu sareuru"
+      }
+    ],
+    "col": [
+      "世論が変わる｜舆论变化",
+      "世論調査｜民意调查"
+    ],
+    "fam": [
+      "民意"
+    ],
+    "syn": [
+      "評判"
+    ],
+    "ant": [],
+    "tip": "「世論」读作「せろん」，也有读「よろん」的用法。",
+    "cefr": "N2",
+    "topic": "society",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "kakusa",
+    "w": "格差",
+    "kana": "かくさ",
+    "romaji": "kakusa",
+    "uk": "かくさ",
+    "us": "kakusa",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "差距",
+        "en": "程度の開き"
+      }
+    ],
+    "ex": [
+      {
+        "en": "地域によって医療の格差がある。",
+        "zh": "地区之间存在医疗差距。",
+        "romaji": "chiiki niyotte iryou no kakusa gaaru"
+      },
+      {
+        "en": "所得格差の拡大は教育機会にも波及する。",
+        "zh": "收入差距扩大也会波及教育机会。",
+        "romaji": "shotoku kakusa no kakudai ha kyouiku kikai nimo hakyuu suru"
+      }
+    ],
+    "col": [
+      "格差が広がる｜差距扩大",
+      "格差を縮める｜缩小差距"
+    ],
+    "fam": [
+      "差"
+    ],
+    "syn": [
+      "不均等"
+    ],
+    "ant": [
+      "平等"
+    ],
+    "tip": "「格差」强调结构性、层级性的不平等，不只是「差」。",
+    "cefr": "N2",
+    "topic": "society",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "kyousei",
+    "w": "共生",
+    "kana": "きょうせい",
+    "romaji": "kyousei",
+    "uk": "きょうせい",
+    "us": "kyousei",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "共生",
+        "en": "共に生きること"
+      }
+    ],
+    "ex": [
+      {
+        "en": "人と自然が共生する町を目指す。",
+        "zh": "以人与自然共生的城市为目标。",
+        "romaji": "nin to shizen ga kyousei suru machi wo mezasu"
+      },
+      {
+        "en": "多様な背景を持つ人々の共生が政策の柱に据えられた。",
+        "zh": "不同背景人群的共生被列为政策支柱。",
+        "romaji": "tayou na haikei wo motsu hitobito no kyousei ga seisaku no hashira ni sue rareta"
+      }
+    ],
+    "col": [
+      "共生する｜共生",
+      "共生社会｜共生社会"
+    ],
+    "fam": [
+      "共存"
+    ],
+    "syn": [
+      "協働"
+    ],
+    "ant": [
+      "排除"
+    ],
+    "tip": "生物学上也指不同物种互利共存。",
+    "cefr": "N1",
+    "topic": "society",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "fukushi",
+    "w": "福祉",
+    "kana": "ふくし",
+    "romaji": "fukushi",
+    "uk": "ふくし",
+    "us": "fukushi",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "福利；福祉",
+        "en": "生活を支える仕組み"
+      }
+    ],
+    "ex": [
+      {
+        "en": "福祉の仕事に興味がある。",
+        "zh": "对福利工作感兴趣。",
+        "romaji": "fukushi no shigoto ni kyoumi gaaru"
+      },
+      {
+        "en": "福祉予算の配分は高齢化率を反映して見直された。",
+        "zh": "福利预算分配随老龄化率被重新审视。",
+        "romaji": "fukushi yosan no haibun ha koureika hikiwo han ei shite minaosa reta"
+      }
+    ],
+    "col": [
+      "福祉を充実させる｜完善福利",
+      "福祉施設｜福利设施"
+    ],
+    "fam": [
+      "社会保障"
+    ],
+    "syn": [
+      "支援"
+    ],
+    "ant": [],
+    "tip": "「福祉」指制度性支持，个人间帮忙一般说「手伝い」。",
+    "cefr": "N1",
+    "topic": "society",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "houritsu",
+    "w": "法律",
+    "kana": "ほうりつ",
+    "romaji": "houritsu",
+    "uk": "ほうりつ",
+    "us": "houritsu",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "法律",
+        "en": "国が定める決まり"
+      }
+    ],
+    "ex": [
+      {
+        "en": "新しい法律が四月から施行される。",
+        "zh": "新法律从四月起施行。",
+        "romaji": "atarashii houritsu ga shigatsu kara shikou sareru"
+      },
+      {
+        "en": "法律の改正には国会での審議が必要となる。",
+        "zh": "修改法律需要国会审议。",
+        "romaji": "houritsu no kaisei niha kokkai deno shingi ga hitsuyou tonaru"
+      }
+    ],
+    "col": [
+      "法律を守る｜遵守法律",
+      "法律が変わる｜法律变更"
+    ],
+    "fam": [
+      "法令"
+    ],
+    "syn": [
+      "法規"
+    ],
+    "ant": [
+      "違法"
+    ],
+    "tip": "「法律」指国会制定的法，「条例」是地方议会制定的。",
+    "cefr": "N4",
+    "topic": "government",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "senkyo",
+    "w": "選挙",
+    "kana": "せんきょ",
+    "romaji": "senkyo",
+    "uk": "せんきょ",
+    "us": "senkyo",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "选举",
+        "en": "代表を選ぶ手続き"
+      }
+    ],
+    "ex": [
+      {
+        "en": "初めて選挙で投票した。",
+        "zh": "第一次在选举中投票。",
+        "romaji": "hajimete senkyo de touhyou shita"
+      },
+      {
+        "en": "選挙の結果は翌日の開票で確定した。",
+        "zh": "选举结果在次日开票后确定。",
+        "romaji": "senkyo no kekka ha yokujitsu no kaihyou de kakuteishi ta"
+      }
+    ],
+    "col": [
+      "選挙に行く｜去投票",
+      "選挙に出る｜参选"
+    ],
+    "fam": [
+      "投票"
+    ],
+    "syn": [
+      "立候補"
+    ],
+    "ant": [],
+    "tip": "「選挙」是整个过程，「投票」是投出选票这一动作。",
+    "cefr": "N4",
+    "topic": "government",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "zeikin",
+    "w": "税金",
+    "kana": "ぜいきん",
+    "romaji": "zeikin",
+    "uk": "ぜいきん",
+    "us": "zeikin",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "税款",
+        "en": "国に納めるお金"
+      }
+    ],
+    "ex": [
+      {
+        "en": "買い物にも税金がかかる。",
+        "zh": "买东西也要缴税。",
+        "romaji": "kaimono nimo zeikin gakakaru"
+      },
+      {
+        "en": "税金の使途は予算書で公開されている。",
+        "zh": "税款用途在预算书中公开。",
+        "romaji": "zeikin no shito ha yosan kaki de koukai sareteiru"
+      }
+    ],
+    "col": [
+      "税金を払う｜缴税",
+      "税金が上がる｜加税"
+    ],
+    "fam": [
+      "税"
+    ],
+    "syn": [
+      "課税"
+    ],
+    "ant": [
+      "減税"
+    ],
+    "tip": "「税」偏制度与税种，「税金」偏具体缴纳的金额。",
+    "cefr": "N4",
+    "topic": "government",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "seisaku",
+    "w": "政策",
+    "kana": "せいさく",
+    "romaji": "seisaku",
+    "uk": "せいさく",
+    "us": "seisaku",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "政策",
+        "en": "目的を持つ施策の束"
+      }
+    ],
+    "ex": [
+      {
+        "en": "子育て支援の政策が発表された。",
+        "zh": "发布了育儿支持政策。",
+        "romaji": "kosodate shien no seisaku ga happyou sareta"
+      },
+      {
+        "en": "政策の効果は指標を置いて検証されるべきだ。",
+        "zh": "政策效果应设定指标加以检验。",
+        "romaji": "seisaku no kouka ha shihyou wo oi te kenshou sarerubekida"
+      }
+    ],
+    "col": [
+      "政策を打ち出す｜推出政策",
+      "政策を見直す｜调整政策"
+    ],
+    "fam": [
+      "施策"
+    ],
+    "syn": [
+      "方針"
+    ],
+    "ant": [],
+    "tip": "「政策」是整体方向，「施策」是其中具体措施。",
+    "cefr": "N3",
+    "topic": "government",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "kokkai",
+    "w": "国会",
+    "kana": "こっかい",
+    "romaji": "kokkai",
+    "uk": "こっかい",
+    "us": "kokkai",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "国会",
+        "en": "立法を行う機関"
+      }
+    ],
+    "ex": [
+      {
+        "en": "国会で予算案が審議されている。",
+        "zh": "预算案正在国会审议。",
+        "romaji": "kokkai de yosan an ga shingi sareteiru"
+      },
+      {
+        "en": "国会の議事は原則として公開されている。",
+        "zh": "国会议事原则上公开。",
+        "romaji": "kokkai no giji ha gensoku toshite koukai sareteiru"
+      }
+    ],
+    "col": [
+      "国会を開く｜召开国会",
+      "国会で審議する｜在国会审议"
+    ],
+    "fam": [
+      "議会"
+    ],
+    "syn": [
+      "参議院"
+    ],
+    "ant": [],
+    "tip": "地方立法机关叫「議会」，国家层面才是「国会」。",
+    "cefr": "N2",
+    "topic": "government",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "jichitai",
+    "w": "自治体",
+    "kana": "じちたい",
+    "romaji": "jichitai",
+    "uk": "じちたい",
+    "us": "jichitai",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "地方政府",
+        "en": "地域を治める団体"
+      }
+    ],
+    "ex": [
+      {
+        "en": "自治体が避難所を開設した。",
+        "zh": "地方政府开设了避难所。",
+        "romaji": "jichitai ga hinanjo wo kaisetsushi ta"
+      },
+      {
+        "en": "自治体ごとに支援制度の対象範囲が異なる。",
+        "zh": "各地方政府支援制度的覆盖范围不同。",
+        "romaji": "jichitai gotoni shien seido no taishou han i ga kotonaru"
+      }
+    ],
+    "col": [
+      "自治体に申請する｜向地方政府申请",
+      "自治体が対応する｜地方政府应对"
+    ],
+    "fam": [
+      "地方公共団体"
+    ],
+    "syn": [
+      "行政"
+    ],
+    "ant": [],
+    "tip": "正式名称是「地方公共団体」，媒体常用「自治体」。",
+    "cefr": "N2",
+    "topic": "government",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "shinsei",
+    "w": "申請",
+    "kana": "しんせい",
+    "romaji": "shinsei",
+    "uk": "しんせい",
+    "us": "shinsei",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "申请",
+        "en": "書類を出して求めること"
+      }
+    ],
+    "ex": [
+      {
+        "en": "奨学金の申請をオンラインで出した。",
+        "zh": "在线提交了奖学金申请。",
+        "romaji": "shougakukin no shinsei wo onrain de dashi ta"
+      },
+      {
+        "en": "申請書類に不備があると審査が保留になる。",
+        "zh": "申请材料有缺漏时审查会被暂缓。",
+        "romaji": "shinseishorui ni fubi gaaruto shinsa ga horyuu ninaru"
+      }
+    ],
+    "col": [
+      "申請する｜申请",
+      "申請書｜申请书"
+    ],
+    "fam": [
+      "届出"
+    ],
+    "syn": [
+      "申込"
+    ],
+    "ant": [
+      "取消"
+    ],
+    "tip": "「申請」向行政机关请求许可，「申込」多用于商业服务。",
+    "cefr": "N2",
+    "topic": "government",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "kenpou",
+    "w": "憲法",
+    "kana": "けんぽう",
+    "romaji": "kenpou",
+    "uk": "けんぽう",
+    "us": "kenpou",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "宪法",
+        "en": "国の基本となる法"
+      }
+    ],
+    "ex": [
+      {
+        "en": "憲法について授業で学んだ。",
+        "zh": "课上学习了宪法。",
+        "romaji": "kenpou nitsuite jugyou de manan da"
+      },
+      {
+        "en": "憲法の解釈をめぐって学術的な議論が続いている。",
+        "zh": "围绕宪法解释的学术讨论仍在持续。",
+        "romaji": "kenpou no kaishaku womegutte gakujutsuteki na giron ga tsuzui teiru"
+      }
+    ],
+    "col": [
+      "憲法を守る｜遵守宪法",
+      "憲法改正｜修宪"
+    ],
+    "fam": [
+      "基本法"
+    ],
+    "syn": [
+      "最高法規"
+    ],
+    "ant": [],
+    "tip": "「憲法」效力高于一般「法律」，修改需特别程序。",
+    "cefr": "N1",
+    "topic": "government",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "nedan",
+    "w": "値段",
+    "kana": "ねだん",
+    "romaji": "nedan",
+    "uk": "ねだん",
+    "us": "nedan",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "价格",
+        "en": "売る側が示す金額"
+      }
+    ],
+    "ex": [
+      {
+        "en": "この靴は値段が少し高い。",
+        "zh": "这双鞋价格有点贵。",
+        "romaji": "kono kutsu ha nedan ga sukoshi takai"
+      },
+      {
+        "en": "値段の形成には需給と競争環境が影響する。",
+        "zh": "价格形成受供需与竞争环境影响。",
+        "romaji": "nedan no keisei niha jukyuu to kyousou kankyou ga eikyou suru"
+      }
+    ],
+    "col": [
+      "値段を下げる｜降价",
+      "値段を比べる｜比价"
+    ],
+    "fam": [
+      "価格"
+    ],
+    "syn": [
+      "料金"
+    ],
+    "ant": [
+      "無料"
+    ],
+    "tip": "「値段」偏口语，服务费用说「料金」，书面统计说「価格」。",
+    "cefr": "N5",
+    "topic": "economy",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "shouhisha",
+    "w": "消費者",
+    "kana": "しょうひしゃ",
+    "romaji": "shouhisha",
+    "uk": "しょうひしゃ",
+    "us": "shouhisha",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "消费者",
+        "en": "商品を買う人"
+      }
+    ],
+    "ex": [
+      {
+        "en": "消費者は表示をよく確認すべきだ。",
+        "zh": "消费者应仔细确认标示。",
+        "romaji": "shouhisha ha hyouji woyoku kakuninsu bekida"
+      },
+      {
+        "en": "消費者の信頼を回復するには情報開示が欠かせない。",
+        "zh": "要恢复消费者信任，信息披露不可或缺。",
+        "romaji": "shouhisha no shinrai wo kaifuku suruniha jouhou kaiji ga kaka senai"
+      }
+    ],
+    "col": [
+      "消費者を守る｜保护消费者",
+      "消費者庁｜消费者厅"
+    ],
+    "fam": [
+      "買い手"
+    ],
+    "syn": [
+      "需要者"
+    ],
+    "ant": [
+      "生産者"
+    ],
+    "tip": "「消費者」与「生産者」相对，也用于法律条文。",
+    "cefr": "N4",
+    "topic": "economy",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "chokin",
+    "w": "貯金",
+    "kana": "ちょきん",
+    "romaji": "chokin",
+    "uk": "ちょきん",
+    "us": "chokin",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "存款；储蓄",
+        "en": "お金を蓄えること"
+      }
+    ],
+    "ex": [
+      {
+        "en": "旅行のために貯金している。",
+        "zh": "为了旅行在存钱。",
+        "romaji": "ryokou notameni chokin shiteiru"
+      },
+      {
+        "en": "低金利下では貯金の実質的な価値が目減りする。",
+        "zh": "低利率下存款的实际价值会缩水。",
+        "romaji": "teikinri shita deha chokin no jisshitsuteki na kachi ga meberi suru"
+      }
+    ],
+    "col": [
+      "貯金する｜存钱",
+      "貯金を下ろす｜取存款"
+    ],
+    "fam": [
+      "預金"
+    ],
+    "syn": [
+      "蓄財"
+    ],
+    "ant": [
+      "借金"
+    ],
+    "tip": "「貯金」口语常用，银行账务上多写「預金」。",
+    "cefr": "N4",
+    "topic": "economy",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "shijou",
+    "w": "市場",
+    "kana": "しじょう",
+    "romaji": "shijou",
+    "uk": "しじょう",
+    "us": "shijou",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "市场",
+        "en": "取引が行われる場"
+      }
+    ],
+    "ex": [
+      {
+        "en": "朝の市場で魚を買った。",
+        "zh": "在早市买了鱼。",
+        "romaji": "asa no shijou de sakana wo katsu ta"
+      },
+      {
+        "en": "市場の参入規制が競争の度合いを左右する。",
+        "zh": "市场准入规制影响竞争程度。",
+        "romaji": "shijou no sannyuu kisei ga kyousou no doai wo sayuu suru"
+      }
+    ],
+    "col": [
+      "市場に出回る｜上市",
+      "市場が拡大する｜市场扩大"
+    ],
+    "fam": [
+      "マーケット"
+    ],
+    "syn": [
+      "取引所"
+    ],
+    "ant": [],
+    "tip": "读作「いちば」时指菜市场等具体场所，「しじょう」偏抽象市场。",
+    "cefr": "N3",
+    "topic": "economy",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "keiki",
+    "w": "景気",
+    "kana": "けいき",
+    "romaji": "keiki",
+    "uk": "けいき",
+    "us": "keiki",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "景气；经济形势",
+        "en": "経済の活発さ"
+      }
+    ],
+    "ex": [
+      {
+        "en": "最近は景気が少し良くなった。",
+        "zh": "最近经济形势稍微好转了。",
+        "romaji": "saikin ha keiki ga sukoshi yoku natta"
+      },
+      {
+        "en": "景気の動向は雇用と設備投資に反映される。",
+        "zh": "景气走势会反映在就业与设备投资上。",
+        "romaji": "keiki no doukou ha koyou to setsubitoushi ni han ei sareru"
+      }
+    ],
+    "col": [
+      "景気が良くなる｜景气好转",
+      "景気が悪い｜景气不佳"
+    ],
+    "fam": [
+      "経済状況"
+    ],
+    "syn": [
+      "好況"
+    ],
+    "ant": [
+      "不況"
+    ],
+    "tip": "「景気」是短期波动，「経済」是整体体系。",
+    "cefr": "N3",
+    "topic": "economy",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "kawase",
+    "w": "為替",
+    "kana": "かわせ",
+    "romaji": "kawase",
+    "uk": "かわせ",
+    "us": "kawase",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "汇兑；汇率",
+        "en": "通貨を交換すること"
+      }
+    ],
+    "ex": [
+      {
+        "en": "為替の動きを毎朝チェックする。",
+        "zh": "每天早上查看汇率走势。",
+        "romaji": "kawase no ugoki wo maiasa chekku suru"
+      },
+      {
+        "en": "為替相場の変動は輸出企業の収益を直撃する。",
+        "zh": "汇率波动直接冲击出口企业收益。",
+        "romaji": "kawase souba no hendou ha yushutsu kigyou no shuueki wo chokugeki suru"
+      }
+    ],
+    "col": [
+      "為替が動く｜汇率变动",
+      "為替相場｜外汇行情"
+    ],
+    "fam": [
+      "外国為替"
+    ],
+    "syn": [
+      "両替"
+    ],
+    "ant": [],
+    "tip": "「為替」也指汇款、票据结算；旅行换钱常说「両替」。",
+    "cefr": "N2",
+    "topic": "economy",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "toushi",
+    "w": "投資",
+    "kana": "とうし",
+    "romaji": "toushi",
+    "uk": "とうし",
+    "us": "toushi",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "投资",
+        "en": "将来の収益を期待して投じること"
+      }
+    ],
+    "ex": [
+      {
+        "en": "教育への投資は長く効く。",
+        "zh": "对教育的投资效果持久。",
+        "romaji": "kyouiku heno toushi ha nagaku kiku"
+      },
+      {
+        "en": "投資の判断にはリスクと期待収益の比較が要る。",
+        "zh": "投资决策需要比较风险与预期收益。",
+        "romaji": "toushi no handan niha risuku to kitai shuueki no hikaku ga iru"
+      }
+    ],
+    "col": [
+      "投資する｜投资",
+      "投資を回収する｜收回投资"
+    ],
+    "fam": [
+      "出資"
+    ],
+    "syn": [
+      "投機"
+    ],
+    "ant": [
+      "消費"
+    ],
+    "tip": "「投資」着眼长期价值，「投機」偏短期价差。",
+    "cefr": "N2",
+    "topic": "economy",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "bukka",
+    "w": "物価",
+    "kana": "ぶっか",
+    "romaji": "bukka",
+    "uk": "ぶっか",
+    "us": "bukka",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "物价",
+        "en": "商品全体の価格水準"
+      }
+    ],
+    "ex": [
+      {
+        "en": "物価が上がって家計が苦しい。",
+        "zh": "物价上涨，家里开销吃紧。",
+        "romaji": "bukka ga aga tte kakei ga kurushii"
+      },
+      {
+        "en": "物価指数は家計の実質購買力を測る指標となる。",
+        "zh": "物价指数是衡量家庭实际购买力的指标。",
+        "romaji": "bukka shisuu ha kakei no jisshitsu koubairyoku wo hakaru shihyou tonaru"
+      }
+    ],
+    "col": [
+      "物価が上がる｜物价上涨",
+      "物価を抑える｜抑制物价"
+    ],
+    "fam": [
+      "価格水準"
+    ],
+    "syn": [
+      "インフレ"
+    ],
+    "ant": [
+      "デフレ"
+    ],
+    "tip": "「物価」是整体水平，单个商品用「値段」「価格」。",
+    "cefr": "N1",
+    "topic": "economy",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "shinbun",
+    "w": "新聞",
+    "kana": "しんぶん",
+    "romaji": "shinbun",
+    "uk": "しんぶん",
+    "us": "shinbun",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "报纸",
+        "en": "ニュースを載せる紙"
+      }
+    ],
+    "ex": [
+      {
+        "en": "朝ご飯を食べながら新聞を読む。",
+        "zh": "一边吃早饭一边看报。",
+        "romaji": "asa go meshi wo tabe nagara shinbun wo yomu"
+      },
+      {
+        "en": "新聞の購読者数はここ十年で減少している。",
+        "zh": "报纸订阅数在这十年间持续减少。",
+        "romaji": "shinbun no koudokusha kazu hakoko juunen de genshou shiteiru"
+      }
+    ],
+    "col": [
+      "新聞を読む｜读报",
+      "新聞に載る｜登上报纸"
+    ],
+    "fam": [
+      "記事"
+    ],
+    "syn": [
+      "紙面"
+    ],
+    "ant": [],
+    "tip": "「新聞」也指报社，如「新聞社」；不要与「ニュース」混用。",
+    "cefr": "N5",
+    "topic": "media",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "housou",
+    "w": "放送",
+    "kana": "ほうそう",
+    "romaji": "housou",
+    "uk": "ほうそう",
+    "us": "housou",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "播出；广播",
+        "en": "電波で伝えること"
+      }
+    ],
+    "ex": [
+      {
+        "en": "夜八時から番組が放送される。",
+        "zh": "节目从晚上八点开始播出。",
+        "romaji": "yoru hachi toki kara bangumi ga housou sareru"
+      },
+      {
+        "en": "放送の内容は法令に基づいて記録が保存される。",
+        "zh": "播出内容依法保存记录。",
+        "romaji": "housou no naiyou ha hourei ni motozu ite kiroku ga hozon sareru"
+      }
+    ],
+    "col": [
+      "放送する｜播出",
+      "生放送｜直播"
+    ],
+    "fam": [
+      "配信"
+    ],
+    "syn": [
+      "番組"
+    ],
+    "ant": [
+      "受信"
+    ],
+    "tip": "「放送」是电波播出，网络点播多说「配信」。",
+    "cefr": "N4",
+    "topic": "media",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "kiji",
+    "w": "記事",
+    "kana": "きじ",
+    "romaji": "kiji",
+    "uk": "きじ",
+    "us": "kiji",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "报道；文章",
+        "en": "書かれた報道文"
+      }
+    ],
+    "ex": [
+      {
+        "en": "この記事は写真がとてもきれいだ。",
+        "zh": "这篇报道的照片很漂亮。",
+        "romaji": "kono kiji ha shashin gatotemokireida"
+      },
+      {
+        "en": "記事の見出しは本文の内容を正確に反映すべきだ。",
+        "zh": "报道标题应准确反映正文内容。",
+        "romaji": "kiji no midashi ha honbun no naiyou wo seikaku ni han ei subekida"
+      }
+    ],
+    "col": [
+      "記事を書く｜写报道",
+      "記事が出る｜刊出报道"
+    ],
+    "fam": [
+      "報道"
+    ],
+    "syn": [
+      "原稿"
+    ],
+    "ant": [],
+    "tip": "「記事」是单篇报道，「新聞」是承载它的媒体。",
+    "cefr": "N4",
+    "topic": "media",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "koukoku",
+    "w": "広告",
+    "kana": "こうこく",
+    "romaji": "koukoku",
+    "uk": "こうこく",
+    "us": "koukoku",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "广告",
+        "en": "知らせるための宣伝"
+      }
+    ],
+    "ex": [
+      {
+        "en": "駅に大きな広告が貼ってある。",
+        "zh": "车站贴着一幅大广告。",
+        "romaji": "eki ni ooki na koukoku ga hatsu tearu"
+      },
+      {
+        "en": "広告の表示は誤認を招かないよう規制されている。",
+        "zh": "广告标示受到规制以免引起误解。",
+        "romaji": "koukoku no hyouji ha gonin wo maneka naiyou kisei sareteiru"
+      }
+    ],
+    "col": [
+      "広告を出す｜投放广告",
+      "広告を見る｜看广告"
+    ],
+    "fam": [
+      "宣伝"
+    ],
+    "syn": [
+      "CM"
+    ],
+    "ant": [],
+    "tip": "电视广告常说「CM」，纸面与网页用「広告」。",
+    "cefr": "N4",
+    "topic": "media",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "shuzai",
+    "w": "取材",
+    "kana": "しゅざい",
+    "romaji": "shuzai",
+    "uk": "しゅざい",
+    "us": "shuzai",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "采访；取材",
+        "en": "記事のために集めること"
+      }
+    ],
+    "ex": [
+      {
+        "en": "記者が町へ取材に来た。",
+        "zh": "记者到镇上来采访。",
+        "romaji": "kisha ga machi he shuzai ni kita"
+      },
+      {
+        "en": "取材の申し込みは広報部門を通じて行われる。",
+        "zh": "采访申请需经公关部门办理。",
+        "romaji": "shuzai no moushikomi ha kouhoubu mon wo tsuuji te okonawa reru"
+      }
+    ],
+    "col": [
+      "取材する｜采访",
+      "取材を受ける｜接受采访"
+    ],
+    "fam": [
+      "インタビュー"
+    ],
+    "syn": [
+      "聞き取り"
+    ],
+    "ant": [],
+    "tip": "「取材」包含资料收集，「インタビュー」专指对人提问。",
+    "cefr": "N3",
+    "topic": "media",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "houdou",
+    "w": "報道",
+    "kana": "ほうどう",
+    "romaji": "houdou",
+    "uk": "ほうどう",
+    "us": "houdou",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "新闻报道",
+        "en": "出来事を伝えること"
+      }
+    ],
+    "ex": [
+      {
+        "en": "事故の報道が夕方に流れた。",
+        "zh": "事故报道傍晚播出了。",
+        "romaji": "jiko no houdou ga yuugata ni nagare ta"
+      },
+      {
+        "en": "報道の自由度は指標によって国際比較される。",
+        "zh": "新闻报道自由度通过指标做国际比较。",
+        "romaji": "houdou no jiyuudo ha shihyou niyotte kokusaihikaku sareru"
+      }
+    ],
+    "col": [
+      "報道する｜报道",
+      "報道機関｜新闻机构"
+    ],
+    "fam": [
+      "ニュース"
+    ],
+    "syn": [
+      "速報"
+    ],
+    "ant": [],
+    "tip": "「報道」偏机构行为，个人转述一般说「伝える」。",
+    "cefr": "N3",
+    "topic": "media",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "henshuu",
+    "w": "編集",
+    "kana": "へんしゅう",
+    "romaji": "henshuu",
+    "uk": "へんしゅう",
+    "us": "henshuu",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "编辑",
+        "en": "内容を整えること"
+      }
+    ],
+    "ex": [
+      {
+        "en": "動画を編集して一分にまとめた。",
+        "zh": "把视频剪辑成一分钟。",
+        "romaji": "douga wo henshuu shite ichibu nimatometa"
+      },
+      {
+        "en": "編集の過程で事実関係の確認が改めて行われる。",
+        "zh": "编辑过程中会再次核实事实。",
+        "romaji": "henshuu no katei de jijitsukankei no kakunin ga aratame te okonawa reru"
+      }
+    ],
+    "col": [
+      "編集する｜编辑",
+      "編集者｜编辑"
+    ],
+    "fam": [
+      "校正"
+    ],
+    "syn": [
+      "構成"
+    ],
+    "ant": [],
+    "tip": "「校正」只改错字，「編集」负责结构内容的整体整理。",
+    "cefr": "N2",
+    "topic": "media",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "shichousha",
+    "w": "視聴者",
+    "kana": "しちょうしゃ",
+    "romaji": "shichousha",
+    "uk": "しちょうしゃ",
+    "us": "shichousha",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "观众；听众",
+        "en": "番組を見聞きする人"
+      }
+    ],
+    "ex": [
+      {
+        "en": "番組に視聴者からの手紙が届いた。",
+        "zh": "节目收到了观众来信。",
+        "romaji": "bangumi ni shichousha karano tegami ga todoi ta"
+      },
+      {
+        "en": "視聴者の反応は次回の構成に反映される。",
+        "zh": "观众反应会反映到下一期的编排中。",
+        "romaji": "shichousha no hannou ha jikai no kousei ni han ei sareru"
+      }
+    ],
+    "col": [
+      "視聴者が増える｜观众增加",
+      "視聴者を意識する｜顾及观众"
+    ],
+    "fam": [
+      "聴衆"
+    ],
+    "syn": [
+      "読者"
+    ],
+    "ant": [
+      "出演者"
+    ],
+    "tip": "读报纸的人叫「読者」，现场观众叫「観客」。",
+    "cefr": "N1",
+    "topic": "media",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "bangumi",
+    "w": "番組",
+    "kana": "ばんぐみ",
+    "romaji": "bangumi",
+    "uk": "ばんぐみ",
+    "us": "bangumi",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "节目",
+        "en": "放送のひとまとまり"
+      }
+    ],
+    "ex": [
+      {
+        "en": "好きな番組を毎週見ている。",
+        "zh": "每周都看喜欢的节目。",
+        "romaji": "suki na bangumi wo maishuu mite iru"
+      },
+      {
+        "en": "番組の改編期には新作が一斉に始まる。",
+        "zh": "节目改版期新作会一起开播。",
+        "romaji": "bangumi no kaihenki niha shinsaku ga issei ni hajima ru"
+      }
+    ],
+    "col": [
+      "番組を見る｜看节目",
+      "番組表｜节目表"
+    ],
+    "fam": [
+      "プログラム"
+    ],
+    "syn": [
+      "企画"
+    ],
+    "ant": [],
+    "tip": "「番組」是编排单位，单集内容常说「回」。",
+    "cefr": "N2",
+    "topic": "media",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "ongaku",
+    "w": "音楽",
+    "kana": "おんがく",
+    "romaji": "ongaku",
+    "uk": "おんがく",
+    "us": "ongaku",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "音乐",
+        "en": "音で表現する芸術"
+      }
+    ],
+    "ex": [
+      {
+        "en": "勉強しながら音楽を聞く。",
+        "zh": "一边学习一边听音乐。",
+        "romaji": "benkyou shinagara ongaku wo kiku"
+      },
+      {
+        "en": "音楽の著作権は演奏の形態によって扱いが異なる。",
+        "zh": "音乐著作权依演奏形式而处理方式不同。",
+        "romaji": "ongaku no chosakuken ha ensou no keitai niyotte atsukai ga kotonaru"
+      }
+    ],
+    "col": [
+      "音楽を聞く｜听音乐",
+      "音楽を演奏する｜演奏音乐"
+    ],
+    "fam": [
+      "楽曲"
+    ],
+    "syn": [
+      "メロディー"
+    ],
+    "ant": [],
+    "tip": "「音楽」是总称，单首作品说「曲」「楽曲」。",
+    "cefr": "N5",
+    "topic": "arts",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "e",
+    "w": "絵",
+    "kana": "え",
+    "romaji": "e",
+    "uk": "え",
+    "us": "e",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "画；图画",
+        "en": "描かれたもの"
+      }
+    ],
+    "ex": [
+      {
+        "en": "子どもが犬の絵を描いた。",
+        "zh": "孩子画了一张狗的画。",
+        "romaji": "kodomo ga inu no e wo egai ta"
+      },
+      {
+        "en": "この絵の構図は遠近法の影響が指摘されている。",
+        "zh": "有人指出这幅画的构图受透视法影响。",
+        "romaji": "kono e no kouzu ha enkinhou no eikyou ga shiteki sareteiru"
+      }
+    ],
+    "col": [
+      "絵を描く｜画画",
+      "絵が上手｜擅长画画"
+    ],
+    "fam": [
+      "絵画"
+    ],
+    "syn": [
+      "イラスト"
+    ],
+    "ant": [
+      "写真"
+    ],
+    "tip": "「絵」泛指手绘图，「絵画」多用于美术作品。",
+    "cefr": "N5",
+    "topic": "arts",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "shousetsu",
+    "w": "小説",
+    "kana": "しょうせつ",
+    "romaji": "shousetsu",
+    "uk": "しょうせつ",
+    "us": "shousetsu",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "小说",
+        "en": "創作された物語"
+      }
+    ],
+    "ex": [
+      {
+        "en": "寝る前に小説を少し読む。",
+        "zh": "睡前读一点小说。",
+        "romaji": "neru mae ni shousetsu wo sukoshi yomu"
+      },
+      {
+        "en": "この小説は時代の空気を細かく描写している。",
+        "zh": "这部小说细腻描写了时代氛围。",
+        "romaji": "kono shousetsu ha jidai no kuuki wo komakaku byousha shiteiru"
+      }
+    ],
+    "col": [
+      "小説を書く｜写小说",
+      "小説を読む｜读小说"
+    ],
+    "fam": [
+      "物語"
+    ],
+    "syn": [
+      "文学作品"
+    ],
+    "ant": [],
+    "tip": "「小説」是散文体虚构作品，纪实作品说「ノンフィクション」。",
+    "cefr": "N4",
+    "topic": "arts",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "eiga",
+    "w": "映画",
+    "kana": "えいが",
+    "romaji": "eiga",
+    "uk": "えいが",
+    "us": "eiga",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "电影",
+        "en": "映像の作品"
+      }
+    ],
+    "ex": [
+      {
+        "en": "週末に家族と映画を見た。",
+        "zh": "周末和家人看了电影。",
+        "romaji": "shuumatsu ni kazoku to eiga wo mita"
+      },
+      {
+        "en": "映画の興行収入は公開初週で大半が決まる。",
+        "zh": "电影票房大半在首映周决定。",
+        "romaji": "eiga no kougyou shuunyuu ha koukai hatsu shuu de taihan ga kima ru"
+      }
+    ],
+    "col": [
+      "映画を見る｜看电影",
+      "映画館｜电影院"
+    ],
+    "fam": [
+      "作品"
+    ],
+    "syn": [
+      "劇場版"
+    ],
+    "ant": [],
+    "tip": "「映画」指作品，「映画館」才是放映场所。",
+    "cefr": "N5",
+    "topic": "arts",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "tenrankai",
+    "w": "展覧会",
+    "kana": "てんらんかい",
+    "romaji": "tenrankai",
+    "uk": "てんらんかい",
+    "us": "tenrankai",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "展览会",
+        "en": "作品を並べて見せる催し"
+      }
+    ],
+    "ex": [
+      {
+        "en": "美術館で展覧会を開いている。",
+        "zh": "美术馆正在办展览。",
+        "romaji": "bijutsukan de tenrankai wo hirai teiru"
+      },
+      {
+        "en": "展覧会の来場者数は作品の貸出条件に左右される。",
+        "zh": "展览参观人数受作品外借条件影响。",
+        "romaji": "tenrankai no raijousha kazu ha sakuhin no taishutsu jouken ni sayuu sareru"
+      }
+    ],
+    "col": [
+      "展覧会を開く｜办展览",
+      "展覧会に行く｜去看展览"
+    ],
+    "fam": [
+      "展示会"
+    ],
+    "syn": [
+      "個展"
+    ],
+    "ant": [
+      "常設展"
+    ],
+    "tip": "个人作品展叫「個展」，长期陈列叫「常設展」。",
+    "cefr": "N3",
+    "topic": "arts",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "engeki",
+    "w": "演劇",
+    "kana": "えんげき",
+    "romaji": "engeki",
+    "uk": "えんげき",
+    "us": "engeki",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "戏剧",
+        "en": "舞台で演じる芸術"
+      }
+    ],
+    "ex": [
+      {
+        "en": "学校の祭りで演劇をした。",
+        "zh": "在学校文化节演了戏剧。",
+        "romaji": "gakkou no matsuri de engeki woshita"
+      },
+      {
+        "en": "演劇の上演には台本の権利処理が必要になる。",
+        "zh": "上演戏剧需要处理剧本权利。",
+        "romaji": "engeki no jouen niha daihon no kenri shori ga hitsuyou ninaru"
+      }
+    ],
+    "col": [
+      "演劇を見る｜看戏",
+      "演劇に出る｜参演戏剧"
+    ],
+    "fam": [
+      "芝居"
+    ],
+    "syn": [
+      "舞台"
+    ],
+    "ant": [],
+    "tip": "「演劇」偏书面与学科名，日常多说「芝居」。",
+    "cefr": "N2",
+    "topic": "arts",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "choukoku",
+    "w": "彫刻",
+    "kana": "ちょうこく",
+    "romaji": "choukoku",
+    "uk": "ちょうこく",
+    "us": "choukoku",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "雕刻；雕塑",
+        "en": "材料を削って形を作ること"
+      }
+    ],
+    "ex": [
+      {
+        "en": "公園に新しい彫刻が置かれた。",
+        "zh": "公园里安置了新的雕塑。",
+        "romaji": "kouen ni atarashii choukoku ga oka reta"
+      },
+      {
+        "en": "木造の彫刻は湿度の変化で反りが生じやすい。",
+        "zh": "木雕容易因湿度变化而翘曲。",
+        "romaji": "mokuzou no choukoku ha shitsudo no henka de sori ga shouji yasui"
+      }
+    ],
+    "col": [
+      "彫刻を作る｜创作雕塑",
+      "彫刻を鑑賞する｜欣赏雕塑"
+    ],
+    "fam": [
+      "彫像"
+    ],
+    "syn": [
+      "塑像"
+    ],
+    "ant": [
+      "絵画"
+    ],
+    "tip": "「彫刻」既指技法也指作品，具体人像常说「彫像」。",
+    "cefr": "N1",
+    "topic": "arts",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "hyougen",
+    "w": "表現",
+    "kana": "ひょうげん",
+    "romaji": "hyougen",
+    "uk": "ひょうげん",
+    "us": "hyougen",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "表达",
+        "en": "思いを形にすること"
+      }
+    ],
+    "ex": [
+      {
+        "en": "気持ちを言葉で表現する。",
+        "zh": "用语言表达心情。",
+        "romaji": "kimochi wo kotoba de hyougen suru"
+      },
+      {
+        "en": "比喩的な表現は文脈によって解釈が変わる。",
+        "zh": "比喻性表达会随语境改变解读。",
+        "romaji": "hiyuteki na hyougen ha bunmyaku niyotte kaishaku ga kawa ru"
+      }
+    ],
+    "col": [
+      "表現する｜表达",
+      "表現が豊か｜表达丰富"
+    ],
+    "fam": [
+      "描写"
+    ],
+    "syn": [
+      "言い回し"
+    ],
+    "ant": [],
+    "tip": "也可指措辞本身，如「適切な表現」即恰当的说法。",
+    "cefr": "N2",
+    "topic": "arts",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "ryokou",
+    "w": "旅行",
+    "kana": "りょこう",
+    "romaji": "ryokou",
+    "uk": "りょこう",
+    "us": "ryokou",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "旅行",
+        "en": "遠くへ出かけること"
+      }
+    ],
+    "ex": [
+      {
+        "en": "夏休みに北海道へ旅行する。",
+        "zh": "暑假去北海道旅行。",
+        "romaji": "natsuyasumi ni hokkaidou he ryokou suru"
+      },
+      {
+        "en": "旅行の需要は連休の取り方に大きく左右される。",
+        "zh": "旅行需求很大程度受连休安排影响。",
+        "romaji": "ryokou no juyou ha renkyuu no torikata ni ookiku sayuu sareru"
+      }
+    ],
+    "col": [
+      "旅行に行く｜去旅行",
+      "旅行の計画｜旅行计划"
+    ],
+    "fam": [
+      "旅"
+    ],
+    "syn": [
+      "観光"
+    ],
+    "ant": [
+      "出張"
+    ],
+    "tip": "出差说「出張」，即使同样出门也不叫「旅行」。",
+    "cefr": "N5",
+    "topic": "travel",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "eki",
+    "w": "駅",
+    "kana": "えき",
+    "romaji": "eki",
+    "uk": "えき",
+    "us": "eki",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "车站",
+        "en": "列車が止まる場所"
+      }
+    ],
+    "ex": [
+      {
+        "en": "駅で友達を待っている。",
+        "zh": "在车站等朋友。",
+        "romaji": "eki de tomodachi wo matsu teiru"
+      },
+      {
+        "en": "駅のバリアフリー整備が段階的に進められている。",
+        "zh": "车站无障碍改造正在分阶段推进。",
+        "romaji": "eki no bariafurii seibi ga dankaiteki ni susume rareteiru"
+      }
+    ],
+    "col": [
+      "駅に着く｜到站",
+      "駅で乗り換える｜在车站换乘"
+    ],
+    "fam": [
+      "停車場"
+    ],
+    "syn": [
+      "改札"
+    ],
+    "ant": [],
+    "tip": "「駅」特指铁路车站，公交站点说「バス停」。",
+    "cefr": "N5",
+    "topic": "travel",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "kippu",
+    "w": "切符",
+    "kana": "きっぷ",
+    "romaji": "kippu",
+    "uk": "きっぷ",
+    "us": "kippu",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "车票",
+        "en": "乗車券"
+      }
+    ],
+    "ex": [
+      {
+        "en": "窓口で切符を二枚買った。",
+        "zh": "在窗口买了两张车票。",
+        "romaji": "madoguchi de kippu wo nimai katsu ta"
+      },
+      {
+        "en": "切符の払い戻しには所定の手数料がかかる。",
+        "zh": "退票需支付规定手续费。",
+        "romaji": "kippu no haraimodoshi niha shotei no tesuuryou gakakaru"
+      }
+    ],
+    "col": [
+      "切符を買う｜买票",
+      "切符をなくす｜弄丢车票"
+    ],
+    "fam": [
+      "乗車券"
+    ],
+    "syn": [
+      "定期券"
+    ],
+    "ant": [
+      "ICカード"
+    ],
+    "tip": "交通卡普及后，「切符」多指纸票。",
+    "cefr": "N5",
+    "topic": "travel",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "shukuhaku",
+    "w": "宿泊",
+    "kana": "しゅくはく",
+    "romaji": "shukuhaku",
+    "uk": "しゅくはく",
+    "us": "shukuhaku",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "住宿",
+        "en": "泊まること"
+      }
+    ],
+    "ex": [
+      {
+        "en": "旅館に一泊宿泊した。",
+        "zh": "在旅馆住了一晚。",
+        "romaji": "ryokan ni ippaku shukuhaku shita"
+      },
+      {
+        "en": "宿泊施設の稼働率は季節によって大きく変動する。",
+        "zh": "住宿设施入住率随季节大幅波动。",
+        "romaji": "shukuhakushisetsu no kadouritsu ha kisetsu niyotte ookiku hendou suru"
+      }
+    ],
+    "col": [
+      "宿泊する｜住宿",
+      "宿泊料金｜住宿费"
+    ],
+    "fam": [
+      "滞在"
+    ],
+    "syn": [
+      "投宿"
+    ],
+    "ant": [
+      "日帰り"
+    ],
+    "tip": "「宿泊」偏书面，日常多说「泊まる」。",
+    "cefr": "N3",
+    "topic": "travel",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "nimotsu",
+    "w": "荷物",
+    "kana": "にもつ",
+    "romaji": "nimotsu",
+    "uk": "にもつ",
+    "us": "nimotsu",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "行李；货物",
+        "en": "運ぶもの"
+      }
+    ],
+    "ex": [
+      {
+        "en": "荷物が重くて階段がつらい。",
+        "zh": "行李太重，爬楼梯很吃力。",
+        "romaji": "nimotsu ga omoku te kaidan gatsurai"
+      },
+      {
+        "en": "荷物の追跡番号で配送状況を確認できる。",
+        "zh": "用包裹追踪号可查询配送状态。",
+        "romaji": "nimotsu no tsuiseki bangou de haisou joukyou wo kakunin dekiru"
+      }
+    ],
+    "col": [
+      "荷物を持つ｜拿行李",
+      "荷物を預ける｜寄存行李"
+    ],
+    "fam": [
+      "手荷物"
+    ],
+    "syn": [
+      "荷"
+    ],
+    "ant": [
+      "空荷"
+    ],
+    "tip": "随身行李说「手荷物」，托运行李说「預け荷物」。",
+    "cefr": "N4",
+    "topic": "travel",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "kankou",
+    "w": "観光",
+    "kana": "かんこう",
+    "romaji": "kankou",
+    "uk": "かんこう",
+    "us": "kankou",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "观光",
+        "en": "名所を巡ること"
+      }
+    ],
+    "ex": [
+      {
+        "en": "京都で観光を楽しんだ。",
+        "zh": "在京都享受了观光。",
+        "romaji": "kyouto de kankou wo tanoshi nda"
+      },
+      {
+        "en": "観光客の増加は地域経済と混雑の両方をもたらす。",
+        "zh": "游客增加同时带来地方经济收益与拥挤。",
+        "romaji": "kankoukyaku no zouka ha chiiki keizai to konzatsu no ryouhou womotarasu"
+      }
+    ],
+    "col": [
+      "観光する｜观光",
+      "観光地｜旅游景点"
+    ],
+    "fam": [
+      "名所"
+    ],
+    "syn": [
+      "視察"
+    ],
+    "ant": [
+      "視察"
+    ],
+    "tip": "「観光」以游览为目的，考察工作说「視察」。",
+    "cefr": "N4",
+    "topic": "travel",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "yoyaku",
+    "w": "予約",
+    "kana": "よやく",
+    "romaji": "yoyaku",
+    "uk": "よやく",
+    "us": "yoyaku",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "预约",
+        "en": "前もって取り決めること"
+      }
+    ],
+    "ex": [
+      {
+        "en": "ホテルを一ヶ月前に予約した。",
+        "zh": "一个月前订好了酒店。",
+        "romaji": "hoteru wo ikkagetsu mae ni yoyaku shita"
+      },
+      {
+        "en": "予約の取消には規定の期限が設けられている。",
+        "zh": "取消预约设有规定期限。",
+        "romaji": "yoyaku no torikeshi niha kitei no kigen ga mouke rareteiru"
+      }
+    ],
+    "col": [
+      "予約する｜预约",
+      "予約を取る｜订位"
+    ],
+    "fam": [
+      "申し込み"
+    ],
+    "syn": [
+      "予定"
+    ],
+    "ant": [
+      "キャンセル"
+    ],
+    "tip": "餐厅订位、看病挂号也都用「予約」。",
+    "cefr": "N4",
+    "topic": "travel",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "annai",
+    "w": "案内",
+    "kana": "あんない",
+    "romaji": "annai",
+    "uk": "あんない",
+    "us": "annai",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "向导；引导",
+        "en": "場所や手順を示すこと"
+      }
+    ],
+    "ex": [
+      {
+        "en": "駅員が道を案内してくれた。",
+        "zh": "站务员给我指了路。",
+        "romaji": "ekiin ga michi wo annai shitekureta"
+      },
+      {
+        "en": "案内表示の多言語化が訪日客への対応として進む。",
+        "zh": "指引标识的多语言化正作为接待访日游客的举措推进。",
+        "romaji": "annaihyouji no tagengo ka ga hounichi kyaku heno taiou toshite susumu"
+      }
+    ],
+    "col": [
+      "案内する｜引导",
+      "案内所｜问询处"
+    ],
+    "fam": [
+      "ガイド"
+    ],
+    "syn": [
+      "誘導"
+    ],
+    "ant": [],
+    "tip": "「案内」也可指邀请通知，如「結婚式の案内」。",
+    "cefr": "N3",
+    "topic": "travel",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "machi",
+    "w": "町",
+    "kana": "まち",
+    "romaji": "machi",
+    "uk": "まち",
+    "us": "machi",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "城镇；街区",
+        "en": "人が住む区域"
+      }
+    ],
+    "ex": [
+      {
+        "en": "静かな町に引っ越した。",
+        "zh": "搬到了安静的小镇。",
+        "romaji": "shizuka na machi ni hikkoshi ta"
+      },
+      {
+        "en": "町の再整備では住民の意見聴取が義務づけられる。",
+        "zh": "街区改造中必须听取居民意见。",
+        "romaji": "machi no saisei bi deha juumin no iken choushu ga gimu zukerareru"
+      }
+    ],
+    "col": [
+      "町を歩く｜在街上走",
+      "町がにぎわう｜街区热闹"
+    ],
+    "fam": [
+      "街"
+    ],
+    "syn": [
+      "市街地"
+    ],
+    "ant": [
+      "田舎"
+    ],
+    "tip": "「町」偏生活感，「都市」偏行政与规模。",
+    "cefr": "N5",
+    "topic": "city",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "douro",
+    "w": "道路",
+    "kana": "どうろ",
+    "romaji": "douro",
+    "uk": "どうろ",
+    "us": "douro",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "道路",
+        "en": "車や人が通る道"
+      }
+    ],
+    "ex": [
+      {
+        "en": "道路が工事で渋滞している。",
+        "zh": "道路因施工堵车。",
+        "romaji": "douro ga kouji de juutai shiteiru"
+      },
+      {
+        "en": "道路の舗装は耐久年数を考慮して計画される。",
+        "zh": "路面铺装会按使用年限来规划。",
+        "romaji": "douro no hosou ha taikyuu nensuu wo kouryoshi te keikaku sareru"
+      }
+    ],
+    "col": [
+      "道路を渡る｜过马路",
+      "道路が混む｜道路拥堵"
+    ],
+    "fam": [
+      "道"
+    ],
+    "syn": [
+      "舗装"
+    ],
+    "ant": [
+      "歩道"
+    ],
+    "tip": "「道路」偏书面，日常单说「道」更自然。",
+    "cefr": "N4",
+    "topic": "city",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "tatemono",
+    "w": "建物",
+    "kana": "たてもの",
+    "romaji": "tatemono",
+    "uk": "たてもの",
+    "us": "tatemono",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "建筑物",
+        "en": "建てられた構造物"
+      }
+    ],
+    "ex": [
+      {
+        "en": "あの建物は図書館です。",
+        "zh": "那栋建筑是图书馆。",
+        "romaji": "ano tatemono ha toshokan desu"
+      },
+      {
+        "en": "建物の耐震基準は改定のたびに強化されてきた。",
+        "zh": "建筑抗震标准每次修订都在加强。",
+        "romaji": "tatemono no taishin kijun ha kaitei notabini kyouka saretekita"
+      }
+    ],
+    "col": [
+      "建物が建つ｜盖起建筑",
+      "建物に入る｜进入建筑"
+    ],
+    "fam": [
+      "建築"
+    ],
+    "syn": [
+      "構造物"
+    ],
+    "ant": [],
+    "tip": "「建物」指成品，「建築」也指建造行为与设计学科。",
+    "cefr": "N4",
+    "topic": "city",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "koutsuu",
+    "w": "交通",
+    "kana": "こうつう",
+    "romaji": "koutsuu",
+    "uk": "こうつう",
+    "us": "koutsuu",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "交通",
+        "en": "人や物の移動"
+      }
+    ],
+    "ex": [
+      {
+        "en": "この時間は交通が混み合う。",
+        "zh": "这个时段交通拥挤。",
+        "romaji": "kono jikan ha koutsuu ga komi au"
+      },
+      {
+        "en": "交通網の整備は地域間の格差是正につながる。",
+        "zh": "交通网建设有助于缩小地区差距。",
+        "romaji": "koutsuumou no seibi ha chiikikan no kakusa zesei nitsunagaru"
+      }
+    ],
+    "col": [
+      "交通が便利｜交通便利",
+      "交通機関｜交通工具"
+    ],
+    "fam": [
+      "移動"
+    ],
+    "syn": [
+      "輸送"
+    ],
+    "ant": [
+      "渋滞"
+    ],
+    "tip": "「交通」也说「交通費」「交通規則」，搭配很固定。",
+    "cefr": "N4",
+    "topic": "city",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "kouen",
+    "w": "公園",
+    "kana": "こうえん",
+    "romaji": "kouen",
+    "uk": "こうえん",
+    "us": "kouen",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "公园",
+        "en": "公共の緑地"
+      }
+    ],
+    "ex": [
+      {
+        "en": "公園で子どもが遊んでいる。",
+        "zh": "孩子在公园玩。",
+        "romaji": "kouen de kodomo ga asonde iru"
+      },
+      {
+        "en": "公園の維持管理に地域団体が参加している。",
+        "zh": "地区团体参与了公园的维护管理。",
+        "romaji": "kouen no ijikanri ni chiiki dantai ga sanka shiteiru"
+      }
+    ],
+    "col": [
+      "公園に行く｜去公园",
+      "公園を散歩する｜在公园散步"
+    ],
+    "fam": [
+      "緑地"
+    ],
+    "syn": [
+      "広場"
+    ],
+    "ant": [],
+    "tip": "「公園」是公共设施，私家庭院说「庭」。",
+    "cefr": "N5",
+    "topic": "city",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "jinkou",
+    "w": "人口",
+    "kana": "じんこう",
+    "romaji": "jinkou",
+    "uk": "じんこう",
+    "us": "jinkou",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "人口",
+        "en": "住んでいる人の数"
+      }
+    ],
+    "ex": [
+      {
+        "en": "この町の人口は減り続けている。",
+        "zh": "这个镇的人口持续减少。",
+        "romaji": "kono machi no jinkou ha heri tsuzuke teiru"
+      },
+      {
+        "en": "人口の推計は将来の公共投資の基础資料となる。",
+        "zh": "人口推算是未来公共投资的基础资料。",
+        "romaji": "jinkou no suikei ha shourai no koukyoutoushi no moto ryou tonaru"
+      }
+    ],
+    "col": [
+      "人口が増える｜人口增加",
+      "人口が減る｜人口减少"
+    ],
+    "fam": [
+      "住民数"
+    ],
+    "syn": [
+      "世帯数"
+    ],
+    "ant": [
+      "過疎"
+    ],
+    "tip": "「人口」是人数，「世帯」是户数，统计口径不同。",
+    "cefr": "N3",
+    "topic": "city",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "toshi",
+    "w": "都市",
+    "kana": "とし",
+    "romaji": "toshi",
+    "uk": "とし",
+    "us": "toshi",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "城市",
+        "en": "人口が集中した地域"
+      }
+    ],
+    "ex": [
+      {
+        "en": "大都市では家賃が高い。",
+        "zh": "大城市房租很贵。",
+        "romaji": "daitoshi deha yachin ga takai"
+      },
+      {
+        "en": "都市のヒートアイランド対策が全国で検討されている。",
+        "zh": "各地都在研究城市热岛对策。",
+        "romaji": "toshi no hiitoairando taisaku ga zenkoku de kentousa reteiru"
+      }
+    ],
+    "col": [
+      "都市に住む｜住在城市",
+      "都市計画｜城市规划"
+    ],
+    "fam": [
+      "都会"
+    ],
+    "syn": [
+      "市街"
+    ],
+    "ant": [
+      "農村"
+    ],
+    "tip": "「都市」偏规划统计，「都会」带生活语感。",
+    "cefr": "N2",
+    "topic": "city",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "juutai",
+    "w": "渋滞",
+    "kana": "じゅうたい",
+    "romaji": "juutai",
+    "uk": "じゅうたい",
+    "us": "juutai",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "拥堵",
+        "en": "流れが滞ること"
+      }
+    ],
+    "ex": [
+      {
+        "en": "雨の日は渋滞が長引く。",
+        "zh": "下雨天拥堵会更久。",
+        "romaji": "ame no nichi ha juutai ga nagabiku"
+      },
+      {
+        "en": "渋滞の緩和には信号の最適化が効果を示す。",
+        "zh": "优化信号灯对缓解拥堵显示出效果。",
+        "romaji": "juutai no kanwa niha shingou no saitekika ga kouka wo shimesu"
+      }
+    ],
+    "col": [
+      "渋滞に巻き込まれる｜遇上堵车",
+      "渋滞が解消する｜拥堵消散"
+    ],
+    "fam": [
+      "混雑"
+    ],
+    "syn": [
+      "停滞"
+    ],
+    "ant": [
+      "順調"
+    ],
+    "tip": "也可用于「手続きの渋滞」，指流程积压。",
+    "cefr": "N2",
+    "topic": "city",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "yama",
+    "w": "山",
+    "kana": "やま",
+    "romaji": "yama",
+    "uk": "やま",
+    "us": "yama",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "山",
+        "en": "高く盛り上がった地形"
+      }
+    ],
+    "ex": [
+      {
+        "en": "週末に山へ登る予定だ。",
+        "zh": "周末打算去爬山。",
+        "romaji": "shuumatsu ni yama he noboru yotei da"
+      },
+      {
+        "en": "山の植生は標高によって明確に変化する。",
+        "zh": "山体植被随海拔明显变化。",
+        "romaji": "yama no shokusei ha hyoukou niyotte meikaku ni henkasu ru"
+      }
+    ],
+    "col": [
+      "山を登る｜爬山",
+      "山が見える｜看得见山"
+    ],
+    "fam": [
+      "山脈"
+    ],
+    "syn": [
+      "峰"
+    ],
+    "ant": [
+      "谷"
+    ],
+    "tip": "「山」也可指一堆东西，如「仕事の山」。",
+    "cefr": "N5",
+    "topic": "nature",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "kawa",
+    "w": "川",
+    "kana": "かわ",
+    "romaji": "kawa",
+    "uk": "かわ",
+    "us": "kawa",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "河；川",
+        "en": "水が流れる筋"
+      }
+    ],
+    "ex": [
+      {
+        "en": "川のそばで写真を撮った。",
+        "zh": "在河边拍了照片。",
+        "romaji": "kawa nosobade shashin wo totsu ta"
+      },
+      {
+        "en": "川の水位は上流の降雨量に数時間遅れて反応する。",
+        "zh": "河流水位会滞后数小时响应上游降雨。",
+        "romaji": "kawa no suii ha jouryuu no kouuryou ni suujikan okure te hannou suru"
+      }
+    ],
+    "col": [
+      "川を渡る｜过河",
+      "川が増水する｜河水上涨"
+    ],
+    "fam": [
+      "河川"
+    ],
+    "syn": [
+      "流れ"
+    ],
+    "ant": [
+      "海"
+    ],
+    "tip": "公文与地理用语多写「河川」。",
+    "cefr": "N5",
+    "topic": "nature",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "umi",
+    "w": "海",
+    "kana": "うみ",
+    "romaji": "umi",
+    "uk": "うみ",
+    "us": "umi",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "海",
+        "en": "広い塩水の広がり"
+      }
+    ],
+    "ex": [
+      {
+        "en": "夏になると海に行きたくなる。",
+        "zh": "一到夏天就想去海边。",
+        "romaji": "natsu ninaruto umi ni iki takunaru"
+      },
+      {
+        "en": "海の酸性化は生態系への影響が懸念されている。",
+        "zh": "海洋酸化对生态系统的影响令人担忧。",
+        "romaji": "umi no sansei ka ha seitaikei heno eikyou ga kenen sareteiru"
+      }
+    ],
+    "col": [
+      "海が見える｜看得见海",
+      "海で泳ぐ｜在海里游泳"
+    ],
+    "fam": [
+      "海洋"
+    ],
+    "syn": [
+      "沖"
+    ],
+    "ant": [
+      "陸"
+    ],
+    "tip": "「海」日常用语，「海洋」偏科学与法律语境。",
+    "cefr": "N5",
+    "topic": "nature",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "sora",
+    "w": "空",
+    "kana": "そら",
+    "romaji": "sora",
+    "uk": "そら",
+    "us": "sora",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "天空",
+        "en": "上に広がる空間"
+      }
+    ],
+    "ex": [
+      {
+        "en": "夕方の空が赤くなった。",
+        "zh": "傍晚的天空变红了。",
+        "romaji": "yuugata no sora ga akaku natta"
+      },
+      {
+        "en": "空の明るさは大気中の粒子の量で変わる。",
+        "zh": "天空亮度随大气中颗粒物数量变化。",
+        "romaji": "sora no akarusa ha taikichuu no ryuushi no ryou de kawa ru"
+      }
+    ],
+    "col": [
+      "空を見上げる｜仰望天空",
+      "空が晴れる｜天放晴"
+    ],
+    "fam": [
+      "大空"
+    ],
+    "syn": [
+      "天"
+    ],
+    "ant": [
+      "地面"
+    ],
+    "tip": "「空」读「そら」指天空，读「くう」多构词如「空気」。",
+    "cefr": "N5",
+    "topic": "nature",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "hana",
+    "w": "花",
+    "kana": "はな",
+    "romaji": "hana",
+    "uk": "はな",
+    "us": "hana",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "花",
+        "en": "植物の咲く部分"
+      }
+    ],
+    "ex": [
+      {
+        "en": "庭に小さな花が咲いた。",
+        "zh": "院子里开了小花。",
+        "romaji": "niwa ni chiisa na hana ga sai ta"
+      },
+      {
+        "en": "花の開花時期は気温の積算値で予測される。",
+        "zh": "花期可用累计气温预测。",
+        "romaji": "hana no kaika jiki ha kion no sekisan atai de yosoku sareru"
+      }
+    ],
+    "col": [
+      "花が咲く｜开花",
+      "花を飾る｜插花"
+    ],
+    "fam": [
+      "花弁"
+    ],
+    "syn": [
+      "蕾"
+    ],
+    "ant": [
+      "葉"
+    ],
+    "tip": "「花」读「はな」，与「鼻」同音，靠语境区分。",
+    "cefr": "N5",
+    "topic": "nature",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "tenki",
+    "w": "天気",
+    "kana": "てんき",
+    "romaji": "tenki",
+    "uk": "てんき",
+    "us": "tenki",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "天气",
+        "en": "その日の空模様"
+      }
+    ],
+    "ex": [
+      {
+        "en": "明日の天気を調べておく。",
+        "zh": "先查一下明天的天气。",
+        "romaji": "ashita no tenki wo shirabe teoku"
+      },
+      {
+        "en": "天気の予報精度は観測点の密度に依存する。",
+        "zh": "天气预报精度取决于观测点密度。",
+        "romaji": "tenki no yohou seido ha kansokuten no mitsudo ni izon suru"
+      }
+    ],
+    "col": [
+      "天気がいい｜天气好",
+      "天気が崩れる｜天气转坏"
+    ],
+    "fam": [
+      "気象"
+    ],
+    "syn": [
+      "空模様"
+    ],
+    "ant": [
+      "気候"
+    ],
+    "tip": "「天気」是短期，「気候」是长年倾向。",
+    "cefr": "N5",
+    "topic": "nature",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "kisetsu",
+    "w": "季節",
+    "kana": "きせつ",
+    "romaji": "kisetsu",
+    "uk": "きせつ",
+    "us": "kisetsu",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "季节",
+        "en": "一年の区分"
+      }
+    ],
+    "ex": [
+      {
+        "en": "好きな季節は秋です。",
+        "zh": "喜欢的季节是秋天。",
+        "romaji": "suki na kisetsu ha aki desu"
+      },
+      {
+        "en": "季節ごとの需要変動を見込んで在庫を調整する。",
+        "zh": "预估各季节需求波动来调整库存。",
+        "romaji": "kisetsu gotono juyou hendou wo mikon de zaiko wo chousei suru"
+      }
+    ],
+    "col": [
+      "季節が変わる｜换季",
+      "季節の挨拶｜季节问候"
+    ],
+    "fam": [
+      "シーズン"
+    ],
+    "syn": [
+      "時季"
+    ],
+    "ant": [
+      "通年"
+    ],
+    "tip": "「季節」是自然划分，「シーズン」常用于商业与体育活动。",
+    "cefr": "N4",
+    "topic": "nature",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "mori",
+    "w": "森",
+    "kana": "もり",
+    "romaji": "mori",
+    "uk": "もり",
+    "us": "mori",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "森林",
+        "en": "木が茂る場所"
+      }
+    ],
+    "ex": [
+      {
+        "en": "森の中は涼しかった。",
+        "zh": "森林里很凉快。",
+        "romaji": "mori no naka ha suzushika tta"
+      },
+      {
+        "en": "森の保全には間伐と植林の両方が必要だ。",
+        "zh": "森林保护需要间伐与植树并重。",
+        "romaji": "mori no hozen niha kanbatsu to shokurin no ryouhou ga hitsuyou da"
+      }
+    ],
+    "col": [
+      "森を歩く｜在森林里走",
+      "森を守る｜保护森林"
+    ],
+    "fam": [
+      "森林"
+    ],
+    "syn": [
+      "林"
+    ],
+    "ant": [
+      "砂漠"
+    ],
+    "tip": "「森」偏自然茂密，「林」多指人工成片树木。",
+    "cefr": "N3",
+    "topic": "nature",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "asa",
+    "w": "朝",
+    "kana": "あさ",
+    "romaji": "asa",
+    "uk": "あさ",
+    "us": "asa",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "早晨",
+        "en": "一日の始まり"
+      }
+    ],
+    "ex": [
+      {
+        "en": "朝は六時に起きる。",
+        "zh": "早上六点起床。",
+        "romaji": "asa ha roku tokini oki ru"
+      },
+      {
+        "en": "朝の通勤時間帯に合わせて運行本数が増える。",
+        "zh": "配合早高峰增加班次。",
+        "romaji": "asa no tsuukinjikantai ni awa sete unkou honsuu ga fue ru"
+      }
+    ],
+    "col": [
+      "朝が早い｜起得早",
+      "朝ご飯｜早饭"
+    ],
+    "fam": [
+      "午前"
+    ],
+    "syn": [
+      "早朝"
+    ],
+    "ant": [
+      "夜"
+    ],
+    "tip": "「朝」是时段，「朝ご飯」是具体一餐，构词很常用。",
+    "cefr": "N5",
+    "topic": "daily",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "shokuji",
+    "w": "食事",
+    "kana": "しょくじ",
+    "romaji": "shokuji",
+    "uk": "しょくじ",
+    "us": "shokuji",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "吃饭；餐食",
+        "en": "食べること"
+      }
+    ],
+    "ex": [
+      {
+        "en": "家族とゆっくり食事をする。",
+        "zh": "和家人从容地吃饭。",
+        "romaji": "kazoku toyukkuri shokuji wosuru"
+      },
+      {
+        "en": "食事の栄養バランスは健康状態に直結する。",
+        "zh": "膳食营养均衡直接关系到健康状况。",
+        "romaji": "shokuji no eiyou baransu ha kenkoujoutai ni chokketsu suru"
+      }
+    ],
+    "col": [
+      "食事をする｜吃饭",
+      "食事の用意｜准备饭菜"
+    ],
+    "fam": [
+      "食事"
+    ],
+    "syn": [
+      "料理"
+    ],
+    "ant": [
+      "断食"
+    ],
+    "tip": "「食事」指一餐或进餐行为，「料理」指做好的菜。",
+    "cefr": "N5",
+    "topic": "daily",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "kaimono",
+    "w": "買い物",
+    "kana": "かいもの",
+    "romaji": "kaimono",
+    "uk": "かいもの",
+    "us": "kaimono",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "购物",
+        "en": "物を買うこと"
+      }
+    ],
+    "ex": [
+      {
+        "en": "夕方にスーパーへ買い物に行く。",
+        "zh": "傍晚去超市买东西。",
+        "romaji": "yuugata ni suupaa he kaimono ni iku"
+      },
+      {
+        "en": "買い物の履歴から消費傾向を分析する手法がある。",
+        "zh": "有从购物记录分析消费倾向的方法。",
+        "romaji": "kaimono no rireki kara shouhi keikou wo bunseki suru shuhou gaaru"
+      }
+    ],
+    "col": [
+      "買い物をする｜购物",
+      "買い物リスト｜购物清单"
+    ],
+    "fam": [
+      "購入"
+    ],
+    "syn": [
+      "ショッピング"
+    ],
+    "ant": [
+      "返品"
+    ],
+    "tip": "「買い物」偏日常，书面交易说「購入」。",
+    "cefr": "N5",
+    "topic": "daily",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "souji",
+    "w": "掃除",
+    "kana": "そうじ",
+    "romaji": "souji",
+    "uk": "そうじ",
+    "us": "souji",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "打扫",
+        "en": "きれいにすること"
+      }
+    ],
+    "ex": [
+      {
+        "en": "部屋を掃除して窓を開けた。",
+        "zh": "打扫了房间并打开窗户。",
+        "romaji": "heya wo souji shite mado wo hirake ta"
+      },
+      {
+        "en": "掃除の手順を標準化すると作業時間が安定する。",
+        "zh": "把清扫流程标准化后工时趋于稳定。",
+        "romaji": "souji no tejun wo hyoujunka suruto sagyoujikan ga antei suru"
+      }
+    ],
+    "col": [
+      "掃除をする｜打扫",
+      "掃除が行き届く｜打扫到位"
+    ],
+    "fam": [
+      "清掃"
+    ],
+    "syn": [
+      "片付け"
+    ],
+    "ant": [
+      "散らかす"
+    ],
+    "tip": "公共场合与业务场景多说「清掃」。",
+    "cefr": "N5",
+    "topic": "daily",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "sentaku",
+    "w": "洗濯",
+    "kana": "せんたく",
+    "romaji": "sentaku",
+    "uk": "せんたく",
+    "us": "sentaku",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "洗衣",
+        "en": "衣類を洗うこと"
+      }
+    ],
+    "ex": [
+      {
+        "en": "晴れたので洗濯を干した。",
+        "zh": "天晴，把洗好的衣服晾出去了。",
+        "romaji": "hare tanode sentaku wo hoshi ta"
+      },
+      {
+        "en": "洗濯表示は素材ごとの取扱いを示している。",
+        "zh": "洗涤标识显示不同材质的处理方式。",
+        "romaji": "sentaku hyouji ha sozai gotono toriatsukai wo shimeshi teiru"
+      }
+    ],
+    "col": [
+      "洗濯をする｜洗衣服",
+      "洗濯機｜洗衣机"
+    ],
+    "fam": [
+      "洗浄"
+    ],
+    "syn": [
+      "選択"
+    ],
+    "ant": [
+      "乾燥"
+    ],
+    "tip": "与「選択」（选择）同音，听写时要注意语境。",
+    "cefr": "N5",
+    "topic": "daily",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "ryouri",
+    "w": "料理",
+    "kana": "りょうり",
+    "romaji": "ryouri",
+    "uk": "りょうり",
+    "us": "ryouri",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "菜；烹饪",
+        "en": "食べ物を作ること"
+      }
+    ],
+    "ex": [
+      {
+        "en": "今夜は母の料理が楽しみだ。",
+        "zh": "很期待今晚妈妈做的菜。",
+        "romaji": "konya ha haha no ryouri ga tanoshimi da"
+      },
+      {
+        "en": "料理の盛り付けは味の印象にも影響する。",
+        "zh": "摆盘也会影响对味道的印象。",
+        "romaji": "ryouri no mori tsuke ha aji no inshou nimo eikyou suru"
+      }
+    ],
+    "col": [
+      "料理を作る｜做菜",
+      "料理が得意｜擅长做饭"
+    ],
+    "fam": [
+      "献立"
+    ],
+    "syn": [
+      "調理"
+    ],
+    "ant": [
+      "食材"
+    ],
+    "tip": "「料理」兼指菜品与烹饪，「調理」更偏操作过程。",
+    "cefr": "N5",
+    "topic": "daily",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "yasumi",
+    "w": "休み",
+    "kana": "やすみ",
+    "romaji": "yasumi",
+    "uk": "やすみ",
+    "us": "yasumi",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "休息；假期",
+        "en": "活動を止めること"
+      }
+    ],
+    "ex": [
+      {
+        "en": "明日は休みなのでゆっくり寝る。",
+        "zh": "明天休息，可以睡个懒觉。",
+        "romaji": "ashita ha yasumi nanodeyukkuri neru"
+      },
+      {
+        "en": "休みの取得状況は職場の環境指標になる。",
+        "zh": "休假取得情况是职场环境指标之一。",
+        "romaji": "yasumi no shutoku joukyou ha shokuba no kankyou shihyou ninaru"
+      }
+    ],
+    "col": [
+      "休みを取る｜请假",
+      "休み明け｜假期结束"
+    ],
+    "fam": [
+      "休暇"
+    ],
+    "syn": [
+      "休憩"
+    ],
+    "ant": [
+      "勤務"
+    ],
+    "tip": "短时间歇说「休憩」，整天以上的假用「休暇」。",
+    "cefr": "N5",
+    "topic": "daily",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "jikan",
+    "w": "時間",
+    "kana": "じかん",
+    "romaji": "jikan",
+    "uk": "じかん",
+    "us": "jikan",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "时间；小时",
+        "en": "長さの一単位"
+      }
+    ],
+    "ex": [
+      {
+        "en": "時間がないので急ごう。",
+        "zh": "没时间了，快点吧。",
+        "romaji": "jikan ganainode isogo u"
+      },
+      {
+        "en": "時間の配分を見直すと作業の遅延が減る。",
+        "zh": "重新分配时间能减少工序延误。",
+        "romaji": "jikan no haibun wo minaosu to sagyou no chien ga heru"
+      }
+    ],
+    "col": [
+      "時間がかかる｜费时间",
+      "時間を守る｜守时"
+    ],
+    "fam": [
+      "時刻"
+    ],
+    "syn": [
+      "時"
+    ],
+    "ant": [
+      "期限"
+    ],
+    "tip": "「時間」是长度，「時刻」是钟点上的某一点。",
+    "cefr": "N5",
+    "topic": "daily",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "ureshii",
+    "w": "嬉しい",
+    "kana": "うれしい",
+    "romaji": "ureshii",
+    "uk": "うれしい",
+    "us": "ureshii",
+    "senses": [
+      {
+        "pos": "形容詞",
+        "zh": "高兴的",
+        "en": "喜ばしい気持ち"
+      }
+    ],
+    "ex": [
+      {
+        "en": "合格の知らせを聞いて嬉しかった。",
+        "zh": "听到合格的消息很高兴。",
+        "romaji": "goukaku no shirase wo kii te ureshika tta"
+      },
+      {
+        "en": "期待していなかった支援に嬉しい驚きを覚えた。",
+        "zh": "对意料之外的支持感到欣喜。",
+        "romaji": "kitaishi teinakatta shien ni ureshii odoroki wo oboe ta"
+      }
+    ],
+    "col": [
+      "嬉しい知らせ｜好消息",
+      "嬉しそう｜看起来很高兴"
+    ],
+    "fam": [
+      "喜ばしい"
+    ],
+    "syn": [
+      "楽しい"
+    ],
+    "ant": [
+      "悲しい"
+    ],
+    "tip": "「嬉しい」是具体事件带来的喜悦，「楽しい」是持续过程的愉快。",
+    "cefr": "N5",
+    "topic": "emotion",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "kanashii",
+    "w": "悲しい",
+    "kana": "かなしい",
+    "romaji": "kanashii",
+    "uk": "かなしい",
+    "us": "kanashii",
+    "senses": [
+      {
+        "pos": "形容詞",
+        "zh": "悲伤的",
+        "en": "寂しく切ない気持ち"
+      }
+    ],
+    "ex": [
+      {
+        "en": "別れの場面は少し悲しい。",
+        "zh": "离别的场面有些伤感。",
+        "romaji": "wakare no bamen ha sukoshi kanashii"
+      },
+      {
+        "en": "悲しい知らせは伝える言葉を選ぶ必要がある。",
+        "zh": "传达噩耗时需要斟酌措辞。",
+        "romaji": "kanashii shirase ha tsutae ru kotoba wo erabu hitsuyou gaaru"
+      }
+    ],
+    "col": [
+      "悲しい顔｜悲伤的表情",
+      "悲しい気持ち｜悲伤的心情"
+    ],
+    "fam": [
+      "切ない"
+    ],
+    "syn": [
+      "寂しい"
+    ],
+    "ant": [
+      "嬉しい"
+    ],
+    "tip": "「寂しい」是孤独感，「悲しい」是因失去或不幸而难过。",
+    "cefr": "N5",
+    "topic": "emotion",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "fuan",
+    "w": "不安",
+    "kana": "ふあん",
+    "romaji": "fuan",
+    "uk": "ふあん",
+    "us": "fuan",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "不安",
+        "en": "心が落ち着かないこと"
+      }
+    ],
+    "ex": [
+      {
+        "en": "試験の前は少し不安になる。",
+        "zh": "考试前会有些不安。",
+        "romaji": "shiken no mae ha sukoshi fuan ninaru"
+      },
+      {
+        "en": "不確実な情報が不安を増幅させることがある。",
+        "zh": "不确定的信息有时会放大不安。",
+        "romaji": "fukakujitsu na jouhou ga fuan wo zoufuku saserukotogaaru"
+      }
+    ],
+    "col": [
+      "不安を感じる｜感到不安",
+      "不安が消える｜不安消散"
+    ],
+    "fam": [
+      "心配"
+    ],
+    "syn": [
+      "懸念"
+    ],
+    "ant": [
+      "安心"
+    ],
+    "tip": "「不安」偏情绪，「懸念」是书面语中的担忧。",
+    "cefr": "N4",
+    "topic": "emotion",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "ikari",
+    "w": "怒り",
+    "kana": "いかり",
+    "romaji": "ikari",
+    "uk": "いかり",
+    "us": "ikari",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "愤怒",
+        "en": "腹が立つ気持ち"
+      }
+    ],
+    "ex": [
+      {
+        "en": "怒りを言葉にしないで一度深呼吸した。",
+        "zh": "没有把愤怒说出口，先深呼吸了一次。",
+        "romaji": "ikari wo kotoba nishinaide ichido shinkokyuu shita"
+      },
+      {
+        "en": "怒りの感情を否定せず受け止めることが助けになる。",
+        "zh": "不否定愤怒情绪而是接纳它会有帮助。",
+        "romaji": "ikari no kanjou wo hitei sezu uke yameru kotoga tasuke ninaru"
+      }
+    ],
+    "col": [
+      "怒りを抑える｜压住怒火",
+      "怒りが収まる｜怒气平息"
+    ],
+    "fam": [
+      "憤り"
+    ],
+    "syn": [
+      "立腹"
+    ],
+    "ant": [
+      "許し"
+    ],
+    "tip": "「怒り」是名词，动词用「怒る」，形容状态用「怒っている」。",
+    "cefr": "N3",
+    "topic": "emotion",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "anshin",
+    "w": "安心",
+    "kana": "あんしん",
+    "romaji": "anshin",
+    "uk": "あんしん",
+    "us": "anshin",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "放心；安心",
+        "en": "心が落ち着くこと"
+      }
+    ],
+    "ex": [
+      {
+        "en": "連絡が来て安心した。",
+        "zh": "收到消息就放心了。",
+        "romaji": "renraku ga kite anshinshi ta"
+      },
+      {
+        "en": "安心して利用できる制度設計が求められる。",
+        "zh": "需要让人能安心使用的制度设计。",
+        "romaji": "anshinshi te riyou dekiru seido sekkei ga motome rareru"
+      }
+    ],
+    "col": [
+      "安心する｜放心",
+      "安心できる｜可以放心"
+    ],
+    "fam": [
+      "安堵"
+    ],
+    "syn": [
+      "平静"
+    ],
+    "ant": [
+      "不安"
+    ],
+    "tip": "「安心」也可作形容动词，如「安心な場所」。",
+    "cefr": "N4",
+    "topic": "emotion",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "odoroki",
+    "w": "驚き",
+    "kana": "おどろき",
+    "romaji": "odoroki",
+    "uk": "おどろき",
+    "us": "odoroki",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "惊讶",
+        "en": "予想外への反応"
+      }
+    ],
+    "ex": [
+      {
+        "en": "突然の雨に驚きの声が上がった。",
+        "zh": "突降的雨引来一阵惊呼。",
+        "romaji": "totsuzen no ame ni odoroki no koe ga aga tta"
+      },
+      {
+        "en": "調査結果には専門家も驚きを隠せなかった。",
+        "zh": "专家也难掩对调查结果的惊讶。",
+        "romaji": "chousakekka niha senmonka mo odoroki wo kakuse nakatta"
+      }
+    ],
+    "col": [
+      "驚きを隠す｜掩饰惊讶",
+      "驚きの声｜惊呼"
+    ],
+    "fam": [
+      "びっくり"
+    ],
+    "syn": [
+      "意外"
+    ],
+    "ant": [
+      "予想通り"
+    ],
+    "tip": "「驚き」是名词，「驚く」是动词，「びっくり」更口语。",
+    "cefr": "N3",
+    "topic": "emotion",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "natsukashii",
+    "w": "懐かしい",
+    "kana": "なつかしい",
+    "romaji": "natsukashii",
+    "uk": "なつかしい",
+    "us": "natsukashii",
+    "senses": [
+      {
+        "pos": "形容詞",
+        "zh": "怀念的",
+        "en": "昔を思い起こす気持ち"
+      }
+    ],
+    "ex": [
+      {
+        "en": "古い写真を見たら懐かしくなった。",
+        "zh": "看到老照片觉得很怀念。",
+        "romaji": "furui shashin wo mita ra natsukashiku natta"
+      },
+      {
+        "en": "故郷の匂いに懐かしさを覚える人が多い。",
+        "zh": "很多人对故乡的气味会生出怀念。",
+        "romaji": "kokyou no nioi ni natsukashisa wo oboe ru nin ga ooi"
+      }
+    ],
+    "col": [
+      "懐かしい思い出｜怀念的回忆",
+      "懐かしい顔｜熟悉的面孔"
+    ],
+    "fam": [
+      "郷愁"
+    ],
+    "syn": [
+      "恋しい"
+    ],
+    "ant": [
+      "新しい"
+    ],
+    "tip": "「懐かしい」用于对过去事物的温情怀念，不用于刚分开的人。",
+    "cefr": "N2",
+    "topic": "emotion",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "kansha",
+    "w": "感謝",
+    "kana": "かんしゃ",
+    "romaji": "kansha",
+    "uk": "かんしゃ",
+    "us": "kansha",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "感谢",
+        "en": "ありがたいと思う気持ち"
+      }
+    ],
+    "ex": [
+      {
+        "en": "手伝ってくれた人に感謝を伝えた。",
+        "zh": "向帮忙的人表达了感谢。",
+        "romaji": "tetsudatsu tekureta nin ni kansha wo tsutae ta"
+      },
+      {
+        "en": "感謝の気持ちは言葉にして初めて相手に届く。",
+        "zh": "感谢之心要说出口才能传达给对方。",
+        "romaji": "kansha no kimochi ha kotoba nishite hajimete aite ni todoku"
+      }
+    ],
+    "col": [
+      "感謝する｜感谢",
+      "感謝の言葉｜感谢的话"
+    ],
+    "fam": [
+      "謝意"
+    ],
+    "syn": [
+      "礼"
+    ],
+    "ant": [
+      "不満"
+    ],
+    "tip": "「感謝」偏郑重，日常随口说「ありがとう」。",
+    "cefr": "N2",
+    "topic": "emotion",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "kangaeru",
+    "w": "考える",
+    "kana": "かんがえる",
+    "romaji": "kangaeru",
+    "uk": "かんがえる",
+    "us": "kangaeru",
+    "senses": [
+      {
+        "pos": "動詞",
+        "zh": "思考；考虑",
+        "en": "頭を働かせる"
+      }
+    ],
+    "ex": [
+      {
+        "en": "進路についてゆっくり考える。",
+        "zh": "慢慢考虑升学方向。",
+        "romaji": "shinro nitsuiteyukkuri kangae ru"
+      },
+      {
+        "en": "複数の選択肢を比較してから考えるべきだ。",
+        "zh": "应先比较多个选项再做判断。",
+        "romaji": "fukusuu no sentakushi wo hikaku shitekara kangae rubekida"
+      }
+    ],
+    "col": [
+      "考えてみる｜试着想想",
+      "考えがまとまる｜想法理清"
+    ],
+    "fam": [
+      "思案"
+    ],
+    "syn": [
+      "思索"
+    ],
+    "ant": [
+      "決める"
+    ],
+    "tip": "「考える」是理性思考，「思う」偏向感受与念头。",
+    "cefr": "N5",
+    "topic": "thinking",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "riyuu",
+    "w": "理由",
+    "kana": "りゆう",
+    "romaji": "riyuu",
+    "uk": "りゆう",
+    "us": "riyuu",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "理由",
+        "en": "そうなるわけ"
+      }
+    ],
+    "ex": [
+      {
+        "en": "遅れた理由を説明してください。",
+        "zh": "请说明迟到的理由。",
+        "romaji": "okure ta riyuu wo setsumeishi tekudasai"
+      },
+      {
+        "en": "判断の理由を明示すると説明責任を果たせる。",
+        "zh": "明示判断理由才能履行说明责任。",
+        "romaji": "handan no riyuu wo meiji suruto setsumei sekinin wo hata seru"
+      }
+    ],
+    "col": [
+      "理由がある｜有理由",
+      "理由を調べる｜查明原因"
+    ],
+    "fam": [
+      "原因"
+    ],
+    "syn": [
+      "根拠"
+    ],
+    "ant": [
+      "結果"
+    ],
+    "tip": "「理由」偏人的动机与依据，「原因」偏客观因果。",
+    "cefr": "N4",
+    "topic": "thinking",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "handan",
+    "w": "判断",
+    "kana": "はんだん",
+    "romaji": "handan",
+    "uk": "はんだん",
+    "us": "handan",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "判断",
+        "en": "見極めて決めること"
+      }
+    ],
+    "ex": [
+      {
+        "en": "天気を見て出発を判断する。",
+        "zh": "看天气决定是否出发。",
+        "romaji": "tenki wo mite shuppatsu wo handan suru"
+      },
+      {
+        "en": "判断の基準が曖昧だと結果にばらつきが出る。",
+        "zh": "判断标准含糊时结果会出现偏差。",
+        "romaji": "handan no kijun ga aimai dato kekka nibaratsukiga deru"
+      }
+    ],
+    "col": [
+      "判断する｜判断",
+      "判断を誤る｜判断失误"
+    ],
+    "fam": [
+      "判定"
+    ],
+    "syn": [
+      "決断"
+    ],
+    "ant": [
+      "迷い"
+    ],
+    "tip": "「判断」重在分辨，「決断」重在下定决心执行。",
+    "cefr": "N3",
+    "topic": "thinking",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "kioku",
+    "w": "記憶",
+    "kana": "きおく",
+    "romaji": "kioku",
+    "uk": "きおく",
+    "us": "kioku",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "记忆",
+        "en": "覚えておくこと"
+      }
+    ],
+    "ex": [
+      {
+        "en": "子どもの頃の記憶が残っている。",
+        "zh": "还留着小时候的记忆。",
+        "romaji": "kodomo no gorono kioku ga nokotsu teiru"
+      },
+      {
+        "en": "記憶の定着には睡眠と反復が関与する。",
+        "zh": "睡眠与重复都参与记忆的巩固。",
+        "romaji": "kioku no teichaku niha suimin to hanpuku ga kanyo suru"
+      }
+    ],
+    "col": [
+      "記憶が薄れる｜记忆淡去",
+      "記憶をたどる｜追溯记忆"
+    ],
+    "fam": [
+      "思い出"
+    ],
+    "syn": [
+      "忘却"
+    ],
+    "ant": [
+      "忘却"
+    ],
+    "tip": "「記憶」偏认知功能，「思い出」带情感色彩。",
+    "cefr": "N3",
+    "topic": "thinking",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "souzou",
+    "w": "想像",
+    "kana": "そうぞう",
+    "romaji": "souzou",
+    "uk": "そうぞう",
+    "us": "souzou",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "想象",
+        "en": "頭に描くこと"
+      }
+    ],
+    "ex": [
+      {
+        "en": "住んでみたい家を想像する。",
+        "zh": "想象想住的房子。",
+        "romaji": "sun demitai ie wo souzou suru"
+      },
+      {
+        "en": "想像力は資料だけでは補えない部分を埋める。",
+        "zh": "想象力能补上资料无法覆盖的部分。",
+        "romaji": "souzouryoku ha shiryou dakedeha ho enai bubun wo ume ru"
+      }
+    ],
+    "col": [
+      "想像する｜想象",
+      "想像がつく｜能想象得到"
+    ],
+    "fam": [
+      "イメージ"
+    ],
+    "syn": [
+      "空想"
+    ],
+    "ant": [
+      "現実"
+    ],
+    "tip": "「想像」中性，「空想」多指脱离现实的幻想。",
+    "cefr": "N3",
+    "topic": "thinking",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "ketsuron",
+    "w": "結論",
+    "kana": "けつろん",
+    "romaji": "ketsuron",
+    "uk": "けつろん",
+    "us": "ketsuron",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "结论",
+        "en": "導き出された判断"
+      }
+    ],
+    "ex": [
+      {
+        "en": "話し合いの結論をまとめた。",
+        "zh": "总结了讨论的结论。",
+        "romaji": "hanashiai no ketsuron womatometa"
+      },
+      {
+        "en": "結論を急ぐと重要な反例を見落とす。",
+        "zh": "急于下结论会漏掉重要的反例。",
+        "romaji": "ketsuron wo isogu to juuyouna hanrei wo mioto su"
+      }
+    ],
+    "col": [
+      "結論を出す｜得出结论",
+      "結論に至る｜达成结论"
+    ],
+    "fam": [
+      "結び"
+    ],
+    "syn": [
+      "帰結"
+    ],
+    "ant": [
+      "前提"
+    ],
+    "tip": "「結論」由「前提」与论据推出，不是单纯的结果。",
+    "cefr": "N2",
+    "topic": "thinking",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "hikaku",
+    "w": "比較",
+    "kana": "ひかく",
+    "romaji": "hikaku",
+    "uk": "ひかく",
+    "us": "hikaku",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "比较",
+        "en": "比べて違いを見ること"
+      }
+    ],
+    "ex": [
+      {
+        "en": "二つの案を比較して選ぶ。",
+        "zh": "比较两个方案后选择。",
+        "romaji": "futatsu no an wo hikaku shite erabu"
+      },
+      {
+        "en": "比較の対象を揃えなければ数値に意味がない。",
+        "zh": "不统一比较对象，数字就没有意义。",
+        "romaji": "hikaku no taishou wo soroe nakereba suuchi ni imi ganai"
+      }
+    ],
+    "col": [
+      "比較する｜比较",
+      "比較的｜比较地"
+    ],
+    "fam": [
+      "対比"
+    ],
+    "syn": [
+      "検討"
+    ],
+    "ant": [
+      "単独"
+    ],
+    "tip": "「比較」找异同，「対比」更强调对照出的差异。",
+    "cefr": "N2",
+    "topic": "thinking",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "utagau",
+    "w": "疑う",
+    "kana": "うたがう",
+    "romaji": "utagau",
+    "uk": "うたがう",
+    "us": "utagau",
+    "senses": [
+      {
+        "pos": "動詞",
+        "zh": "怀疑",
+        "en": "信じられないと思う"
+      }
+    ],
+    "ex": [
+      {
+        "en": "数字が正しいか疑って確かめた。",
+        "zh": "怀疑数字是否正确，就去核实了。",
+        "romaji": "suuji ga tadashii ka utagatsu te tashika meta"
+      },
+      {
+        "en": "出所の明確でない情報を疑う姿勢が大切だ。",
+        "zh": "对来源不明的信息保持怀疑很重要。",
+        "romaji": "shussho no meikaku denai jouhou wo utagau shisei ga taisetsu da"
+      }
+    ],
+    "col": [
+      "疑ってかかる｜先存疑",
+      "疑いが晴れる｜嫌疑消除"
+    ],
+    "fam": [
+      "不信"
+    ],
+    "syn": [
+      "信用する"
+    ],
+    "ant": [
+      "信じる"
+    ],
+    "tip": "「疑う」是及物动词，宾语用「を」标记。",
+    "cefr": "N1",
+    "topic": "thinking",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "undou",
+    "w": "運動",
+    "kana": "うんどう",
+    "romaji": "undou",
+    "uk": "うんどう",
+    "us": "undou",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "运动",
+        "en": "体を動かすこと"
+      }
+    ],
+    "ex": [
+      {
+        "en": "毎日少し運動するようにしている。",
+        "zh": "每天尽量做点运动。",
+        "romaji": "mainichi sukoshi undou suruyounishiteiru"
+      },
+      {
+        "en": "適度な運動は生活習慣病の予防に寄与する。",
+        "zh": "适度运动有助于预防生活习惯病。",
+        "romaji": "tekido na undou ha seikatsushuukan yano yobou ni kiyo suru"
+      }
+    ],
+    "col": [
+      "運動する｜运动",
+      "運動不足｜缺乏运动"
+    ],
+    "fam": [
+      "スポーツ"
+    ],
+    "syn": [
+      "体操"
+    ],
+    "ant": [
+      "安静"
+    ],
+    "tip": "「運動」也用于物理与社会运动，需看语境。",
+    "cefr": "N5",
+    "topic": "sport",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "shiai",
+    "w": "試合",
+    "kana": "しあい",
+    "romaji": "shiai",
+    "uk": "しあい",
+    "us": "shiai",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "比赛",
+        "en": "勝負を競う催し"
+      }
+    ],
+    "ex": [
+      {
+        "en": "明日の試合に向けて練習した。",
+        "zh": "为明天的比赛做了练习。",
+        "romaji": "ashita no shiai ni muke te renshuu shita"
+      },
+      {
+        "en": "試合の日程は天候不良で順延となった。",
+        "zh": "比赛日程因天气不佳顺延。",
+        "romaji": "shiai no nittei ha tenkou furyou de jun en tonatta"
+      }
+    ],
+    "col": [
+      "試合に出る｜参加比赛",
+      "試合が始まる｜比赛开始"
+    ],
+    "fam": [
+      "ゲーム"
+    ],
+    "syn": [
+      "対戦"
+    ],
+    "ant": [
+      "練習"
+    ],
+    "tip": "「試合」用于正式对抗，「ゲーム」可指一局或游戏。",
+    "cefr": "N5",
+    "topic": "sport",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "senshu",
+    "w": "選手",
+    "kana": "せんしゅ",
+    "romaji": "senshu",
+    "uk": "せんしゅ",
+    "us": "senshu",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "选手",
+        "en": "競技に出る人"
+      }
+    ],
+    "ex": [
+      {
+        "en": "あの選手は走るのが速い。",
+        "zh": "那位选手跑得很快。",
+        "romaji": "ano senshu ha hashiru noga hayai"
+      },
+      {
+        "en": "選手の育成には長期的な指導計画が欠かせない。",
+        "zh": "选手培养离不开长期指导计划。",
+        "romaji": "senshu no ikusei niha choukiteki na shidou keikaku ga kaka senai"
+      }
+    ],
+    "col": [
+      "選手になる｜成为选手",
+      "選手を応援する｜为选手加油"
+    ],
+    "fam": [
+      "アスリート"
+    ],
+    "syn": [
+      "代表"
+    ],
+    "ant": [
+      "観客"
+    ],
+    "tip": "「選手」偏竞技体育，职业球员也说「プロ選手」。",
+    "cefr": "N4",
+    "topic": "sport",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "renshuu",
+    "w": "練習",
+    "kana": "れんしゅう",
+    "romaji": "renshuu",
+    "uk": "れんしゅう",
+    "us": "renshuu",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "练习",
+        "en": "繰り返し習うこと"
+      }
+    ],
+    "ex": [
+      {
+        "en": "放課後に一時間練習する。",
+        "zh": "放学后练习一小时。",
+        "romaji": "houkago ni ichijikan renshuu suru"
+      },
+      {
+        "en": "練習の質は反復回数よりも意識の向け方で変わる。",
+        "zh": "练习质量更取决于注意力而非重复次数。",
+        "romaji": "renshuu no shitsu ha hanpuku kaisuu yorimo ishiki no muke hou de kawa ru"
+      }
+    ],
+    "col": [
+      "練習する｜练习",
+      "練習を積む｜积累练习"
+    ],
+    "fam": [
+      "訓練"
+    ],
+    "syn": [
+      "稽古"
+    ],
+    "ant": [
+      "本番"
+    ],
+    "tip": "「練習」通用，「稽古」多用于传统技艺。",
+    "cefr": "N4",
+    "topic": "sport",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "katsu",
+    "w": "勝つ",
+    "kana": "かつ",
+    "romaji": "katsu",
+    "uk": "かつ",
+    "us": "katsu",
+    "senses": [
+      {
+        "pos": "動詞",
+        "zh": "赢；获胜",
+        "en": "相手に勝る"
+      }
+    ],
+    "ex": [
+      {
+        "en": "次の試合で勝ちたい。",
+        "zh": "想在下场比赛中获胜。",
+        "romaji": "tsugino shiai de kachi tai"
+      },
+      {
+        "en": "勝つためには日々の記録の蓄積がものを言う。",
+        "zh": "要取胜，日常数据的积累很关键。",
+        "romaji": "katsu tameniha hibi no kiroku no chikuseki gamonowo iu"
+      }
+    ],
+    "col": [
+      "勝つまで諦めない｜不赢不放弃",
+      "勝ちを拾う｜捡回一胜"
+    ],
+    "fam": [
+      "優勝する"
+    ],
+    "syn": [
+      "勝利"
+    ],
+    "ant": [
+      "負ける"
+    ],
+    "tip": "「勝つ」是动词，「勝利」是名词，注意词性。",
+    "cefr": "N4",
+    "topic": "sport",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "hashiru",
+    "w": "走る",
+    "kana": "はしる",
+    "romaji": "hashiru",
+    "uk": "はしる",
+    "us": "hashiru",
+    "senses": [
+      {
+        "pos": "動詞",
+        "zh": "跑",
+        "en": "速く足を動かす"
+      }
+    ],
+    "ex": [
+      {
+        "en": "公園を毎朝走っている。",
+        "zh": "每天早上在公园跑步。",
+        "romaji": "kouen wo maiasa hashitsu teiru"
+      },
+      {
+        "en": "走るフォームを撮影して姿勢を分析した。",
+        "zh": "拍下跑姿来分析动作。",
+        "romaji": "hashiru foomu wo satsuei shite shisei wo bunseki shita"
+      }
+    ],
+    "col": [
+      "走って行く｜跑着去",
+      "走り出す｜开始跑"
+    ],
+    "fam": [
+      "駆ける"
+    ],
+    "syn": [
+      "ジョギング"
+    ],
+    "ant": [
+      "歩く"
+    ],
+    "tip": "车辆、水流的快速移动也能用「走る」。",
+    "cefr": "N5",
+    "topic": "sport",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "chiimu",
+    "w": "チーム",
+    "kana": "ちいむ",
+    "romaji": "chiimu",
+    "uk": "ちいむ",
+    "us": "chiimu",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "队伍；团队",
+        "en": "共同で動く集団"
+      }
+    ],
+    "ex": [
+      {
+        "en": "チーム全員で作戦を話し合った。",
+        "zh": "全队一起讨论了战术。",
+        "romaji": "chiimu zen in de sakusen wo hanashiatsu ta"
+      },
+      {
+        "en": "チームの成果は個人の能力より連携に左右される。",
+        "zh": "团队成果更受协作而非个人能力影响。",
+        "romaji": "chiimu no seika ha kojin no nouryoku yori renkei ni sayuu sareru"
+      }
+    ],
+    "col": [
+      "チームを組む｜组队",
+      "チームに加わる｜加入团队"
+    ],
+    "fam": [
+      "団体"
+    ],
+    "syn": [
+      "組"
+    ],
+    "ant": [
+      "個人"
+    ],
+    "tip": "片假名词，注意长音不写进文字，「チーム」的「ー」要保留。",
+    "cefr": "N4",
+    "topic": "sport",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "kiroku",
+    "w": "記録",
+    "kana": "きろく",
+    "romaji": "kiroku",
+    "uk": "きろく",
+    "us": "kiroku",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "记录；纪录",
+        "en": "残した数値や文書"
+      }
+    ],
+    "ex": [
+      {
+        "en": "自己記録を更新できた。",
+        "zh": "刷新了个人纪录。",
+        "romaji": "jikokiroku wo koushin dekita"
+      },
+      {
+        "en": "記録の測定には公認の機器と立会いが必要だ。",
+        "zh": "纪录测定需要认证设备与见证人。",
+        "romaji": "kiroku no sokutei niha kounin no kiki to tachiai iga hitsuyou da"
+      }
+    ],
+    "col": [
+      "記録を取る｜做记录",
+      "記録を更新する｜刷新纪录"
+    ],
+    "fam": [
+      "レコード"
+    ],
+    "syn": [
+      "ログ"
+    ],
+    "ant": [
+      "抹消"
+    ],
+    "tip": "体育语境指成绩，行政语境指留存文书。",
+    "cefr": "N3",
+    "topic": "sport",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "rekishi",
+    "w": "歴史",
+    "kana": "れきし",
+    "romaji": "rekishi",
+    "uk": "れきし",
+    "us": "rekishi",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "历史",
+        "en": "過去の出来事の流れ"
+      }
+    ],
+    "ex": [
+      {
+        "en": "この町の歴史を調べている。",
+        "zh": "在调查这个镇的历史。",
+        "romaji": "kono machi no rekishi wo shirabe teiru"
+      },
+      {
+        "en": "歴史の記述は史料の選択によって変わりうる。",
+        "zh": "历史叙述可能因史料取舍而不同。",
+        "romaji": "rekishi no kijutsu ha shiryou no sentaku niyotte kawari uru"
+      }
+    ],
+    "col": [
+      "歴史を学ぶ｜学习历史",
+      "歴史が長い｜历史悠久"
+    ],
+    "fam": [
+      "沿革"
+    ],
+    "syn": [
+      "過去"
+    ],
+    "ant": [
+      "未来"
+    ],
+    "tip": "「歴史」既指过去本身，也指研究它的学科。",
+    "cefr": "N4",
+    "topic": "history",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "jidai",
+    "w": "時代",
+    "kana": "じだい",
+    "romaji": "jidai",
+    "uk": "じだい",
+    "us": "jidai",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "时代",
+        "en": "ある時期の社会"
+      }
+    ],
+    "ex": [
+      {
+        "en": "祖父はその時代の話をよくする。",
+        "zh": "爷爷常讲那个时代的事。",
+        "romaji": "sofu hasono jidai no hanashi woyokusuru"
+      },
+      {
+        "en": "時代の区分は研究者によって境界が異なる。",
+        "zh": "时代划分的界线因研究者而异。",
+        "romaji": "jidai no kubun ha kenkyuusha niyotte kyoukai ga kotonaru"
+      }
+    ],
+    "col": [
+      "時代が変わる｜时代变迁",
+      "時代を遡る｜追溯时代"
+    ],
+    "fam": [
+      "時期"
+    ],
+    "syn": [
+      "世代"
+    ],
+    "ant": [
+      "現代"
+    ],
+    "tip": "「時代」指时期，「世代」指同一年龄段的人群。",
+    "cefr": "N4",
+    "topic": "history",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "kodai",
+    "w": "古代",
+    "kana": "こだい",
+    "romaji": "kodai",
+    "uk": "こだい",
+    "us": "kodai",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "古代",
+        "en": "遠い昔の時代"
+      }
+    ],
+    "ex": [
+      {
+        "en": "古代の道具が博物館にある。",
+        "zh": "博物馆里有古代的工具。",
+        "romaji": "kodai no dougu ga hakubutsukan niaru"
+      },
+      {
+        "en": "古代の交易路は出土品から復元されている。",
+        "zh": "古代商路通过出土文物得以复原。",
+        "romaji": "kodai no koueki michi ha shutsudohin kara fukugen sareteiru"
+      }
+    ],
+    "col": [
+      "古代の遺物｜古代遗物",
+      "古代にさかのぼる｜上溯至古代"
+    ],
+    "fam": [
+      "上古"
+    ],
+    "syn": [
+      "太古"
+    ],
+    "ant": [
+      "近代"
+    ],
+    "tip": "「古代」与「近代」「現代」相对，界线依学科而定。",
+    "cefr": "N2",
+    "topic": "history",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "sensou",
+    "w": "戦争",
+    "kana": "せんそう",
+    "romaji": "sensou",
+    "uk": "せんそう",
+    "us": "sensou",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "战争",
+        "en": "武力による争い"
+      }
+    ],
+    "ex": [
+      {
+        "en": "戦争の記録を資料館で読んだ。",
+        "zh": "在资料馆读了战争记录。",
+        "romaji": "sensou no kiroku wo shiryoukan de yonda"
+      },
+      {
+        "en": "戦争の記憶をどう継承するかが議論されている。",
+        "zh": "如何传承战争记忆正被讨论。",
+        "romaji": "sensou no kioku wodou keishou surukaga giron sareteiru"
+      }
+    ],
+    "col": [
+      "戦争が起きる｜发生战争",
+      "戦争を避ける｜避免战争"
+    ],
+    "fam": [
+      "戦い"
+    ],
+    "syn": [
+      "紛争"
+    ],
+    "ant": [
+      "平和"
+    ],
+    "tip": "「戦争」是国家间大规模武力冲突，「紛争」范围更广。",
+    "cefr": "N2",
+    "topic": "history",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "iseki",
+    "w": "遺跡",
+    "kana": "いせき",
+    "romaji": "iseki",
+    "uk": "いせき",
+    "us": "iseki",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "遗址",
+        "en": "昔の営みの痕跡"
+      }
+    ],
+    "ex": [
+      {
+        "en": "遺跡の見学に出かけた。",
+        "zh": "去参观了遗址。",
+        "romaji": "iseki no kengaku ni deka keta"
+      },
+      {
+        "en": "遺跡の発掘調査は記録の保存が最優先される。",
+        "zh": "遗址发掘调查以保存记录为最优先。",
+        "romaji": "iseki no hakkutsu chousa ha kiroku no hozon ga saiyuusen sareru"
+      }
+    ],
+    "col": [
+      "遺跡を発掘する｜发掘遗址",
+      "遺跡を保存する｜保护遗址"
+    ],
+    "fam": [
+      "史跡"
+    ],
+    "syn": [
+      "遺構"
+    ],
+    "ant": [
+      "新築"
+    ],
+    "tip": "「遺跡」是整体范围，「遺構」指其中具体结构残存。",
+    "cefr": "N2",
+    "topic": "history",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "dentou",
+    "w": "伝統",
+    "kana": "でんとう",
+    "romaji": "dentou",
+    "uk": "でんとう",
+    "us": "dentou",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "传统",
+        "en": "受け継がれた様式"
+      }
+    ],
+    "ex": [
+      {
+        "en": "この祭りは長い伝統がある。",
+        "zh": "这个节日有悠久传统。",
+        "romaji": "kono matsuri ha nagai dentou gaaru"
+      },
+      {
+        "en": "伝統の継承には担い手の育成が不可欠だ。",
+        "zh": "传承传统离不开培养接班人。",
+        "romaji": "dentou no keishou niha ninaite no ikusei ga fukaketsu da"
+      }
+    ],
+    "col": [
+      "伝統を守る｜守护传统",
+      "伝統が続く｜传统延续"
+    ],
+    "fam": [
+      "慣習"
+    ],
+    "syn": [
+      "しきたり"
+    ],
+    "ant": [
+      "革新"
+    ],
+    "tip": "「伝統」偏文化样式，「慣習」偏日常做法。",
+    "cefr": "N2",
+    "topic": "history",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "bunken",
+    "w": "文献",
+    "kana": "ぶんけん",
+    "romaji": "bunken",
+    "uk": "ぶんけん",
+    "us": "bunken",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "文献",
+        "en": "記録として残る書物"
+      }
+    ],
+    "ex": [
+      {
+        "en": "古い文献を図書館で探す。",
+        "zh": "在图书馆查古文献。",
+        "romaji": "furui bunken wo toshokan de sagasu"
+      },
+      {
+        "en": "文献の比較から記述の変遷が明らかになった。",
+        "zh": "通过文献比较弄清了记述的演变。",
+        "romaji": "bunken no hikaku kara kijutsu no hensen ga akiraka ninatta"
+      }
+    ],
+    "col": [
+      "文献を調べる｜查文献",
+      "文献に当たる｜核对文献"
+    ],
+    "fam": [
+      "史料"
+    ],
+    "syn": [
+      "資料"
+    ],
+    "ant": [
+      "口伝"
+    ],
+    "tip": "「文献」是文字记录，口耳相传的内容叫「口伝」。",
+    "cefr": "N1",
+    "topic": "history",
+    "note": "",
+    "m": 31
+  },
+  {
+    "id": "heiwa",
+    "w": "平和",
+    "kana": "へいわ",
+    "romaji": "heiwa",
+    "uk": "へいわ",
+    "us": "heiwa",
+    "senses": [
+      {
+        "pos": "名詞",
+        "zh": "和平",
+        "en": "争いのない状態"
+      }
+    ],
+    "ex": [
+      {
+        "en": "平和な日々が続いてほしい。",
+        "zh": "希望和平的日子持续下去。",
+        "romaji": "heiwa na hibi ga tsuzui tehoshii"
+      },
+      {
+        "en": "平和の維持には対話の仕組みが欠かせない。",
+        "zh": "维持和平离不开对话机制。",
+        "romaji": "heiwa no iji niha taiwa no shikumi ga kaka senai"
+      }
+    ],
+    "col": [
+      "平和を守る｜守护和平",
+      "平和が戻る｜恢复和平"
+    ],
+    "fam": [
+      "安寧"
+    ],
+    "syn": [
+      "平穏"
+    ],
+    "ant": [
+      "戦争"
+    ],
+    "tip": "「平和」也可作形容动词，如「平和な社会」。",
+    "cefr": "N1",
+    "topic": "history",
+    "note": "",
+    "m": 31
+  }
+]
